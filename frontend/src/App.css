@@ -1,0 +1,5 @@
+/* App-level styles — keep #root full-width for sidebar+content layout */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

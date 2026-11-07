@@ -1,0 +1,40 @@
+version: '3.9'
+services:
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: ai_readiness
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app
+    environment:
+      - FLASK_ENV=development
+      - DATABASE_URL=mysql+pymysql://root:example@db:3306/ai_readiness
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "5173:80"
+    environment:
+      - VITE_API_URL=http://backend:5000/api
+    depends_on:
+      - backend
+
+volumes:
+  db_data:

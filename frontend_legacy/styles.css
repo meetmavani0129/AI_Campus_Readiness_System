@@ -1,0 +1,174 @@
+/* Base Styles & Typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8fafc; /* light slate */
+    color: #0f172a;
+    -webkit-font-smoothing: antialiased;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+    padding: 1.25rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1e293b;
+}
+
+header nav a {
+    color: #64748b;
+    text-decoration: none;
+    margin-left: 2rem;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+header nav a:hover {
+    color: #3b82f6;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 8rem 2rem;
+    background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 100%);
+    min-height: calc(100vh - 200px);
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.02em;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    color: #475569;
+    max-width: 600px;
+    margin: 0 auto 2.5rem auto;
+    line-height: 1.6;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #3b82f6;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 8px;
+    border: none;
+    font-size: 1.125rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px -1px rgba(59, 130, 246, 0.2);
+}
+
+.cta-button:hover {
+    background-color: #2563eb;
+    box-shadow: 0 6px 8px -1px rgba(59, 130, 246, 0.3);
+    transform: translateY(-1px);
+}
+
+/* Auth Forms (Login / Register) */
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 80px);
+    background: #f8fafc;
+}
+
+.auth-form {
+    background: #ffffff;
+    padding: 3rem;
+    border-radius: 16px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 440px;
+    border: 1px solid #f1f5f9;
+}
+
+.auth-form h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    color: #0f172a;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 1.25rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #475569;
+}
+
+.form-group input, .form-group select {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 1rem;
+    transition: all 0.2s;
+    background: #f8fafc;
+}
+
+.form-group input:focus, .form-group select:focus {
+    outline: none;
+    border-color: #3b82f6;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.auth-form .cta-button {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.875rem;
+}
+
+.auth-form p {
+    text-align: center;
+    margin-top: 1.5rem;
+    color: #64748b;
+    font-size: 0.9rem;
+}
+
+.auth-form p a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.auth-form p a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: #94a3b8;
+    font-size: 0.875rem;
+    background: #ffffff;
+    border-top: 1px solid #e2e8f0;
+}

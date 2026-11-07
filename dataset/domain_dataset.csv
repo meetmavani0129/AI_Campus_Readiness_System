@@ -1,0 +1,3001 @@
+Programming_Score,Technical_Score,Aptitude_Score,Communication_Score,Domain
+72,31,56,81,Web Development
+62,47,62,86,Software Development
+74,53,58,77,Web Development
+87,88,63,40,Software Development
+61,68,67,67,Cloud and DevOps
+61,39,80,52,Web Development
+88,67,66,66,Web Development
+76,36,50,84,Web Development
+57,76,83,74,Cloud and DevOps
+73,52,59,87,Web Development
+58,58,69,75,Cloud and DevOps
+58,79,75,50,Cloud and DevOps
+68,40,72,32,Data Science
+36,39,83,72,Software Development
+39,51,75,66,Data Science
+56,75,59,55,Web Development
+49,37,96,44,Cloud and DevOps
+69,17,72,58,Cybersecurity
+51,53,68,67,Web Development
+43,68,81,79,Software Development
+86,78,72,72,Software Development
+61,53,74,94,Web Development
+66,53,99,54,Data Science
+43,77,66,83,Cybersecurity
+56,31,66,70,Data Science
+66,54,71,80,Cloud and DevOps
+47,62,82,63,Cloud and DevOps
+70,66,51,86,Web Development
+55,52,46,74,Cloud and DevOps
+60,60,62,59,Cloud and DevOps
+55,22,50,69,Software Development
+92,50,64,66,Web Development
+64,66,76,77,Software Development
+49,45,59,52,Data Science
+77,60,52,69,Web Development
+46,66,70,75,Data Science
+68,54,80,70,Software Development
+35,62,49,90,Web Development
+45,45,79,81,Software Development
+67,56,79,69,Data Science
+76,69,81,73,Web Development
+67,62,84,74,Cybersecurity
+63,51,96,76,Cloud and DevOps
+60,63,65,42,Cybersecurity
+42,70,71,65,Cybersecurity
+54,29,65,47,Cloud and DevOps
+58,77,70,89,Software Development
+80,54,88,69,Web Development
+70,66,53,67,Web Development
+38,77,59,83,Cybersecurity
+69,39,86,76,Web Development
+59,49,82,53,Data Science
+54,55,65,68,Cybersecurity
+74,48,80,64,Web Development
+80,86,74,43,Data Science
+78,47,88,59,Web Development
+52,51,70,67,Software Development
+60,63,82,68,Cybersecurity
+69,41,100,47,Data Science
+79,54,77,87,Web Development
+57,64,70,68,Data Science
+62,55,78,70,Software Development
+48,58,65,76,Web Development
+47,52,98,58,Web Development
+77,37,72,76,Web Development
+85,64,66,64,Web Development
+63,86,59,56,Cybersecurity
+80,60,83,78,Web Development
+70,63,80,92,Cybersecurity
+55,70,64,80,Software Development
+70,40,76,83,Cybersecurity
+88,85,51,62,Software Development
+64,63,72,46,Web Development
+88,84,75,92,Software Development
+25,49,90,100,Software Development
+77,87,60,93,Software Development
+66,71,54,64,Cloud and DevOps
+60,68,59,52,Software Development
+66,63,53,54,Software Development
+35,56,86,44,Cloud and DevOps
+61,78,88,68,Data Science
+70,62,73,94,Data Science
+87,30,84,67,Web Development
+57,43,71,74,Data Science
+52,57,68,90,Web Development
+57,64,66,63,Software Development
+78,59,66,100,Web Development
+69,78,51,99,Cloud and DevOps
+57,30,73,68,Web Development
+72,62,69,61,Web Development
+66,32,78,80,Cloud and DevOps
+79,71,71,64,Web Development
+54,58,68,52,Web Development
+60,66,59,89,Web Development
+59,47,70,88,Web Development
+43,79,78,72,Cloud and DevOps
+69,75,56,51,Cybersecurity
+68,68,71,51,Web Development
+65,58,72,71,Data Science
+61,68,61,62,Software Development
+43,49,62,64,Cybersecurity
+58,72,72,85,Cybersecurity
+59,84,56,80,Cloud and DevOps
+52,76,74,90,Cybersecurity
+62,49,59,55,Cloud and DevOps
+71,65,82,64,Web Development
+93,40,98,81,Web Development
+67,68,59,76,Cloud and DevOps
+68,66,76,92,Data Science
+63,31,61,76,Web Development
+36,42,82,97,Cybersecurity
+64,55,54,78,Web Development
+65,55,75,85,Web Development
+100,41,59,65,Web Development
+62,65,67,70,Web Development
+69,63,57,83,Cloud and DevOps
+64,57,79,94,Web Development
+47,48,59,80,Cybersecurity
+82,75,76,68,Web Development
+76,84,65,90,Cloud and DevOps
+76,52,68,37,Web Development
+51,50,71,48,Cybersecurity
+86,67,60,80,Web Development
+43,54,72,70,Cloud and DevOps
+73,57,88,79,Web Development
+97,71,60,70,Web Development
+50,31,84,78,Software Development
+56,79,87,57,Software Development
+66,61,60,78,Software Development
+57,53,52,84,Software Development
+41,58,73,88,Cloud and DevOps
+66,59,63,100,Web Development
+49,34,92,73,Data Science
+72,82,70,74,Cybersecurity
+51,60,60,47,Data Science
+88,66,56,62,Web Development
+53,74,83,67,Software Development
+60,44,63,85,Web Development
+77,67,70,60,Web Development
+46,55,81,81,Cybersecurity
+68,72,64,69,Web Development
+84,28,69,67,Web Development
+40,58,69,73,Cybersecurity
+67,50,78,64,Data Science
+68,66,77,63,Web Development
+76,67,67,44,Web Development
+46,49,70,66,Web Development
+45,49,65,62,Data Science
+72,58,52,62,Web Development
+69,46,73,76,Web Development
+68,72,92,79,Cybersecurity
+70,54,59,73,Web Development
+54,16,60,84,Cybersecurity
+68,54,59,78,Software Development
+69,44,78,65,Web Development
+54,35,75,63,Cybersecurity
+92,41,68,74,Web Development
+72,61,58,78,Web Development
+47,79,71,90,Data Science
+74,64,51,87,Web Development
+50,50,71,61,Software Development
+76,66,80,68,Web Development
+82,53,54,80,Web Development
+52,49,51,86,Web Development
+79,42,88,84,Web Development
+71,33,62,69,Web Development
+77,54,83,51,Web Development
+93,62,68,55,Web Development
+61,58,68,74,Cybersecurity
+53,53,75,75,Web Development
+51,45,59,53,Cybersecurity
+52,69,71,70,Web Development
+63,40,65,79,Software Development
+70,71,54,52,Software Development
+69,44,74,86,Web Development
+77,48,66,64,Web Development
+65,37,68,88,Web Development
+86,52,55,61,Web Development
+61,74,89,54,Cloud and DevOps
+100,67,80,63,Web Development
+74,74,81,68,Web Development
+52,67,66,64,Web Development
+48,43,49,66,Web Development
+72,55,93,75,Web Development
+61,48,69,67,Software Development
+75,79,61,69,Web Development
+72,42,75,44,Web Development
+63,73,84,75,Web Development
+52,73,69,68,Data Science
+42,87,85,94,Data Science
+58,53,82,55,Web Development
+77,70,57,42,Web Development
+68,94,61,79,Cloud and DevOps
+46,50,81,75,Cybersecurity
+67,36,37,54,Software Development
+70,31,68,47,Data Science
+51,70,52,93,Cybersecurity
+67,31,64,91,Data Science
+65,54,66,32,Software Development
+47,66,65,63,Cloud and DevOps
+70,62,63,94,Software Development
+73,66,56,62,Web Development
+81,63,97,62,Web Development
+80,79,92,65,Web Development
+44,45,56,53,Data Science
+50,49,88,44,Data Science
+72,48,65,85,Web Development
+72,72,71,42,Web Development
+72,73,69,73,Web Development
+100,66,62,83,Web Development
+73,77,81,48,Web Development
+82,42,71,56,Web Development
+79,85,64,88,Software Development
+74,82,54,77,Web Development
+60,71,59,60,Software Development
+76,86,50,88,Cloud and DevOps
+53,35,70,88,Software Development
+61,52,55,74,Cybersecurity
+57,48,66,56,Web Development
+66,70,86,63,Cybersecurity
+99,44,84,74,Web Development
+36,71,69,67,Software Development
+75,80,68,84,Web Development
+40,70,92,47,Cybersecurity
+57,64,76,47,Cybersecurity
+81,45,66,72,Web Development
+65,47,52,62,Web Development
+48,78,74,60,Web Development
+54,71,79,43,Data Science
+75,59,62,70,Web Development
+54,53,73,69,Web Development
+68,29,65,79,Software Development
+65,43,67,71,Cloud and DevOps
+55,88,40,68,Cybersecurity
+97,40,67,87,Web Development
+74,62,81,50,Web Development
+34,75,62,78,Data Science
+67,41,70,44,Web Development
+55,62,60,57,Cloud and DevOps
+77,74,74,51,Web Development
+53,60,67,81,Data Science
+63,100,58,69,Cybersecurity
+72,34,85,69,Web Development
+77,75,81,53,Web Development
+46,57,62,65,Software Development
+59,71,75,58,Cloud and DevOps
+57,66,76,75,Web Development
+55,49,77,55,Web Development
+91,63,49,89,Web Development
+71,32,82,44,Web Development
+46,69,63,57,Software Development
+78,64,65,95,Web Development
+96,69,100,63,Web Development
+80,75,73,50,Web Development
+42,65,65,73,Data Science
+57,62,43,62,Cloud and DevOps
+84,46,86,57,Web Development
+54,49,53,53,Software Development
+71,77,57,100,Web Development
+76,81,66,66,Cybersecurity
+51,56,86,41,Data Science
+64,60,79,92,Cybersecurity
+16,46,68,79,Cybersecurity
+49,77,73,58,Data Science
+61,69,62,56,Web Development
+46,89,71,80,Web Development
+89,46,70,66,Web Development
+43,54,81,41,Cybersecurity
+58,63,81,96,Web Development
+66,69,75,63,Web Development
+86,56,65,92,Web Development
+43,46,78,89,Data Science
+82,73,68,54,Web Development
+65,70,57,85,Data Science
+50,46,65,60,Web Development
+71,80,71,41,Data Science
+67,77,80,63,Cloud and DevOps
+55,62,67,75,Cybersecurity
+66,61,55,63,Cloud and DevOps
+59,68,70,65,Cloud and DevOps
+66,47,71,87,Web Development
+74,60,72,71,Web Development
+88,27,81,57,Web Development
+46,73,82,80,Web Development
+96,36,62,72,Web Development
+35,82,62,32,Cybersecurity
+62,55,57,76,Cloud and DevOps
+73,56,78,75,Web Development
+69,50,87,70,Cloud and DevOps
+55,55,66,83,Software Development
+61,81,67,59,Cybersecurity
+57,22,87,75,Software Development
+56,79,76,46,Cybersecurity
+77,65,75,76,Web Development
+70,41,55,99,Cloud and DevOps
+54,43,78,55,Data Science
+78,85,58,58,Cybersecurity
+69,45,56,59,Software Development
+77,42,65,71,Web Development
+74,77,62,54,Web Development
+52,65,67,76,Web Development
+56,45,52,82,Cloud and DevOps
+76,63,81,78,Web Development
+74,44,83,43,Web Development
+64,76,46,84,Data Science
+66,75,81,84,Data Science
+84,67,60,82,Web Development
+56,65,80,75,Data Science
+73,86,69,73,Cybersecurity
+61,59,70,85,Web Development
+61,42,67,98,Software Development
+81,66,84,55,Web Development
+77,91,55,86,Data Science
+77,44,77,68,Web Development
+84,54,83,68,Web Development
+65,66,78,46,Software Development
+75,59,97,65,Web Development
+60,45,63,55,Cybersecurity
+69,76,81,63,Web Development
+63,94,68,53,Cybersecurity
+66,62,84,63,Software Development
+73,46,69,63,Web Development
+52,36,65,71,Software Development
+96,63,85,45,Web Development
+49,76,64,48,Data Science
+46,67,53,75,Data Science
+82,59,63,58,Web Development
+76,51,77,86,Web Development
+74,43,86,73,Web Development
+74,72,71,79,Web Development
+64,73,85,91,Web Development
+51,36,53,65,Software Development
+66,83,64,61,Cybersecurity
+54,68,66,83,Cloud and DevOps
+79,80,68,77,Data Science
+62,39,71,67,Data Science
+52,39,78,90,Cybersecurity
+60,57,64,66,Web Development
+71,67,71,70,Web Development
+56,86,69,70,Cybersecurity
+52,70,58,55,Software Development
+68,56,68,71,Software Development
+68,44,68,90,Software Development
+57,78,68,76,Data Science
+57,45,70,70,Web Development
+68,84,70,67,Cybersecurity
+43,55,64,74,Software Development
+43,83,85,81,Data Science
+54,70,55,79,Cloud and DevOps
+61,57,61,65,Cybersecurity
+69,52,100,74,Cybersecurity
+87,54,57,77,Web Development
+77,66,53,54,Web Development
+62,61,78,72,Software Development
+64,51,45,37,Data Science
+49,57,67,77,Cybersecurity
+64,61,95,79,Cybersecurity
+60,28,51,81,Cybersecurity
+69,66,46,64,Cybersecurity
+52,45,52,74,Software Development
+72,42,80,91,Web Development
+87,34,83,91,Web Development
+63,33,63,69,Web Development
+71,39,78,72,Web Development
+75,49,86,86,Web Development
+58,89,91,47,Data Science
+68,52,67,65,Web Development
+65,62,42,90,Data Science
+66,66,60,84,Cloud and DevOps
+53,61,64,75,Web Development
+65,58,66,47,Cloud and DevOps
+72,42,67,69,Web Development
+86,81,83,61,Data Science
+79,87,85,74,Data Science
+97,34,67,57,Web Development
+53,44,83,54,Web Development
+78,55,74,39,Web Development
+67,45,70,88,Web Development
+97,67,80,64,Web Development
+52,49,70,72,Data Science
+52,92,94,69,Data Science
+56,77,52,53,Cybersecurity
+33,63,63,51,Data Science
+57,75,68,54,Web Development
+53,76,75,59,Cybersecurity
+67,51,85,75,Cybersecurity
+70,47,69,58,Cybersecurity
+93,61,52,96,Web Development
+79,72,80,85,Web Development
+56,62,79,82,Cloud and DevOps
+51,36,46,68,Web Development
+72,47,69,92,Web Development
+45,58,50,66,Software Development
+92,58,62,69,Web Development
+82,89,59,72,Data Science
+57,39,79,80,Cloud and DevOps
+39,67,71,79,Data Science
+85,82,54,62,Software Development
+63,94,80,62,Cybersecurity
+83,53,52,79,Web Development
+41,67,73,80,Cybersecurity
+56,68,60,64,Software Development
+65,62,65,46,Data Science
+65,58,76,66,Software Development
+58,66,76,79,Web Development
+74,22,86,97,Web Development
+48,70,69,52,Software Development
+62,61,73,63,Web Development
+66,56,64,64,Software Development
+72,90,72,90,Web Development
+75,49,75,69,Web Development
+48,53,68,56,Web Development
+41,89,48,78,Software Development
+84,47,73,63,Web Development
+69,51,74,51,Cloud and DevOps
+53,57,61,56,Cybersecurity
+88,72,54,96,Web Development
+66,63,87,75,Cybersecurity
+82,40,75,71,Web Development
+66,52,67,66,Cybersecurity
+95,50,56,74,Web Development
+91,58,60,74,Web Development
+61,66,85,74,Web Development
+79,66,71,71,Web Development
+74,33,63,83,Web Development
+85,75,76,70,Web Development
+50,63,60,55,Cybersecurity
+75,80,88,60,Web Development
+80,66,86,40,Web Development
+38,76,64,100,Cloud and DevOps
+47,66,62,82,Software Development
+34,80,38,57,Software Development
+60,67,52,65,Web Development
+75,58,53,60,Web Development
+87,94,71,93,Software Development
+66,73,66,48,Web Development
+89,68,53,71,Web Development
+44,40,66,68,Cloud and DevOps
+39,40,76,82,Cybersecurity
+64,64,76,68,Cloud and DevOps
+70,62,47,43,Software Development
+64,50,68,66,Software Development
+33,62,53,55,Cybersecurity
+63,83,80,71,Cybersecurity
+45,70,79,91,Software Development
+75,42,59,43,Web Development
+70,58,60,57,Web Development
+50,47,64,61,Software Development
+57,54,42,64,Data Science
+49,53,74,81,Cybersecurity
+64,52,66,67,Cybersecurity
+79,41,81,76,Web Development
+50,58,56,60,Cybersecurity
+72,51,62,73,Web Development
+57,16,51,81,Data Science
+53,90,57,59,Cybersecurity
+63,76,55,81,Cloud and DevOps
+49,54,81,70,Web Development
+56,60,61,85,Cybersecurity
+47,42,71,66,Software Development
+94,85,65,75,Software Development
+65,88,54,69,Cybersecurity
+54,62,67,68,Web Development
+68,75,77,73,Software Development
+63,62,55,78,Web Development
+61,39,79,51,Web Development
+74,53,59,91,Web Development
+76,61,64,42,Web Development
+57,53,76,59,Software Development
+56,56,62,68,Software Development
+60,58,70,76,Web Development
+30,58,66,93,Cybersecurity
+42,60,71,42,Software Development
+85,44,41,62,Web Development
+89,49,48,38,Web Development
+61,40,77,70,Data Science
+73,74,82,74,Web Development
+69,28,59,93,Data Science
+100,77,67,71,Software Development
+81,80,73,85,Web Development
+63,55,78,78,Cloud and DevOps
+50,20,45,63,Web Development
+40,54,59,48,Web Development
+68,59,66,74,Cybersecurity
+53,44,78,47,Cybersecurity
+43,52,99,89,Software Development
+55,82,67,67,Cybersecurity
+48,69,53,87,Cloud and DevOps
+90,46,74,62,Web Development
+78,36,85,74,Web Development
+64,55,71,73,Cloud and DevOps
+87,56,59,69,Web Development
+66,67,81,63,Cloud and DevOps
+52,51,77,75,Cloud and DevOps
+87,67,57,56,Web Development
+73,89,74,51,Cybersecurity
+49,72,81,88,Cloud and DevOps
+62,59,84,80,Web Development
+51,57,69,70,Web Development
+44,54,65,94,Data Science
+78,77,84,65,Web Development
+93,50,55,89,Web Development
+44,60,75,72,Data Science
+73,60,53,54,Web Development
+55,52,82,97,Software Development
+57,39,66,84,Web Development
+56,64,85,68,Cloud and DevOps
+52,59,75,80,Software Development
+65,67,55,63,Cybersecurity
+52,51,87,82,Web Development
+69,78,88,34,Data Science
+64,46,80,54,Web Development
+61,85,60,84,Web Development
+51,33,66,66,Web Development
+56,66,71,73,Web Development
+76,67,61,49,Web Development
+72,48,90,97,Web Development
+50,66,71,87,Cybersecurity
+66,79,37,66,Data Science
+76,26,74,63,Web Development
+39,67,65,85,Web Development
+73,22,69,99,Web Development
+55,45,65,84,Cybersecurity
+73,84,79,100,Software Development
+53,51,83,56,Web Development
+37,42,73,57,Cybersecurity
+40,57,65,52,Cloud and DevOps
+65,91,69,76,Software Development
+68,32,70,72,Data Science
+51,44,60,67,Web Development
+74,82,76,82,Web Development
+40,87,75,88,Cybersecurity
+64,58,88,47,Data Science
+46,41,85,61,Cloud and DevOps
+55,91,61,82,Software Development
+65,83,79,62,Cybersecurity
+52,70,58,58,Data Science
+59,47,78,85,Web Development
+80,59,63,50,Web Development
+56,57,57,65,Cybersecurity
+77,64,73,74,Web Development
+48,81,37,61,Cybersecurity
+72,73,48,81,Web Development
+86,43,67,61,Web Development
+27,80,70,91,Cloud and DevOps
+53,64,65,68,Cybersecurity
+73,70,51,80,Web Development
+61,81,60,81,Software Development
+70,43,74,60,Data Science
+55,59,76,39,Cybersecurity
+66,52,69,75,Cybersecurity
+62,36,83,71,Web Development
+82,65,74,78,Web Development
+68,97,61,66,Cybersecurity
+70,32,66,63,Cybersecurity
+58,59,53,100,Cloud and DevOps
+57,69,68,47,Data Science
+58,61,83,81,Software Development
+70,58,78,61,Cybersecurity
+58,40,86,64,Cloud and DevOps
+69,63,66,65,Software Development
+96,48,86,57,Web Development
+78,27,67,78,Web Development
+60,77,87,90,Software Development
+83,74,69,77,Web Development
+58,60,78,71,Cloud and DevOps
+34,63,87,55,Cybersecurity
+49,76,67,77,Cybersecurity
+36,63,72,100,Data Science
+59,73,85,64,Web Development
+65,55,68,64,Cloud and DevOps
+90,79,54,61,Software Development
+69,64,95,62,Web Development
+61,62,64,28,Web Development
+77,40,71,76,Web Development
+31,64,83,57,Software Development
+68,47,62,45,Software Development
+76,50,57,81,Web Development
+42,47,73,53,Cloud and DevOps
+82,44,48,64,Web Development
+70,91,66,91,Web Development
+58,79,72,48,Data Science
+74,88,66,47,Cybersecurity
+99,41,51,74,Web Development
+67,61,89,87,Software Development
+68,40,71,46,Web Development
+58,49,87,76,Software Development
+52,46,66,78,Web Development
+77,78,59,39,Web Development
+52,54,73,81,Cybersecurity
+66,76,67,83,Cybersecurity
+57,69,55,65,Data Science
+72,94,87,88,Data Science
+70,37,62,87,Cloud and DevOps
+80,78,47,71,Web Development
+57,77,85,63,Web Development
+60,45,63,55,Cybersecurity
+50,75,62,69,Cloud and DevOps
+58,65,48,78,Cybersecurity
+70,56,90,65,Cloud and DevOps
+76,47,54,37,Web Development
+51,49,70,89,Cloud and DevOps
+78,90,80,72,Cybersecurity
+85,60,75,64,Web Development
+71,71,69,82,Web Development
+93,48,49,92,Web Development
+53,48,60,27,Cybersecurity
+46,76,72,76,Software Development
+38,39,60,48,Cloud and DevOps
+87,53,72,77,Web Development
+74,60,78,71,Web Development
+64,61,81,79,Web Development
+69,57,55,62,Cybersecurity
+48,65,96,41,Software Development
+100,70,79,63,Web Development
+66,71,69,76,Cybersecurity
+66,45,83,85,Data Science
+75,55,98,52,Web Development
+72,77,52,85,Web Development
+68,73,67,60,Web Development
+53,39,41,75,Data Science
+72,65,72,62,Web Development
+93,30,74,72,Web Development
+85,60,69,83,Web Development
+88,88,62,51,Software Development
+57,45,45,59,Cloud and DevOps
+50,47,74,72,Cloud and DevOps
+63,71,87,100,Software Development
+65,36,62,57,Data Science
+81,50,75,100,Web Development
+39,68,51,100,Data Science
+87,50,75,68,Web Development
+62,56,65,65,Cloud and DevOps
+58,71,60,59,Software Development
+49,66,60,68,Web Development
+40,64,65,48,Cybersecurity
+77,54,74,68,Web Development
+66,65,54,92,Data Science
+45,58,65,60,Web Development
+45,66,69,66,Cybersecurity
+59,52,56,44,Cybersecurity
+90,57,91,75,Web Development
+61,45,59,73,Data Science
+42,59,61,70,Software Development
+61,47,58,66,Software Development
+60,43,91,65,Web Development
+24,63,76,77,Web Development
+64,63,58,69,Cloud and DevOps
+61,71,83,74,Software Development
+75,53,72,73,Web Development
+92,66,73,86,Web Development
+81,68,65,80,Web Development
+60,66,61,72,Web Development
+48,47,74,92,Cloud and DevOps
+100,62,63,76,Web Development
+65,65,91,89,Software Development
+65,60,54,79,Cybersecurity
+64,28,88,42,Web Development
+67,62,68,89,Cloud and DevOps
+62,93,73,72,Cybersecurity
+56,54,79,69,Software Development
+56,49,62,74,Cybersecurity
+64,65,80,64,Web Development
+56,64,37,73,Software Development
+54,77,61,61,Cybersecurity
+66,41,58,89,Data Science
+61,70,54,68,Software Development
+87,68,67,64,Web Development
+25,57,74,56,Data Science
+81,65,78,74,Web Development
+83,75,72,72,Web Development
+33,73,62,75,Web Development
+59,42,74,54,Cloud and DevOps
+59,72,71,45,Web Development
+43,59,81,79,Software Development
+53,61,79,92,Data Science
+48,61,70,54,Data Science
+91,57,59,93,Web Development
+79,77,62,74,Web Development
+84,58,63,69,Web Development
+75,43,66,64,Web Development
+48,54,73,49,Cybersecurity
+57,62,78,84,Web Development
+72,78,69,58,Web Development
+46,69,70,58,Web Development
+75,47,71,84,Web Development
+61,97,63,41,Cybersecurity
+59,63,58,47,Software Development
+75,79,48,69,Web Development
+71,57,61,74,Web Development
+59,68,75,77,Data Science
+82,72,61,65,Web Development
+48,78,67,100,Software Development
+74,75,75,66,Web Development
+73,73,76,66,Web Development
+60,55,57,58,Software Development
+69,51,81,71,Data Science
+46,64,83,79,Software Development
+78,73,56,88,Web Development
+62,56,60,47,Data Science
+57,75,84,66,Software Development
+80,81,68,76,Cloud and DevOps
+54,46,43,78,Software Development
+43,47,53,70,Software Development
+41,57,67,78,Cloud and DevOps
+74,64,56,57,Web Development
+45,52,65,93,Web Development
+91,80,70,84,Software Development
+33,66,87,49,Data Science
+90,60,66,53,Web Development
+68,38,82,54,Cybersecurity
+63,40,87,80,Cloud and DevOps
+56,64,87,50,Web Development
+70,28,73,65,Software Development
+64,75,46,76,Web Development
+81,57,75,69,Web Development
+66,100,82,73,Data Science
+67,94,69,54,Cybersecurity
+59,57,90,78,Cloud and DevOps
+64,58,80,60,Software Development
+69,74,76,65,Web Development
+39,85,83,73,Data Science
+44,35,74,71,Cybersecurity
+76,33,40,70,Web Development
+67,50,64,58,Data Science
+62,68,84,65,Data Science
+65,67,60,70,Cloud and DevOps
+70,76,67,49,Software Development
+56,42,57,63,Software Development
+53,25,91,75,Data Science
+67,72,90,50,Web Development
+50,47,59,87,Software Development
+71,29,71,89,Web Development
+39,62,61,51,Cybersecurity
+80,71,77,90,Web Development
+72,58,76,67,Web Development
+68,53,79,76,Cybersecurity
+79,57,73,62,Web Development
+89,54,100,83,Web Development
+80,39,57,76,Web Development
+37,49,49,57,Software Development
+45,67,65,52,Software Development
+55,64,51,48,Data Science
+65,62,52,72,Cloud and DevOps
+72,45,57,78,Web Development
+54,57,58,79,Data Science
+67,27,58,68,Cloud and DevOps
+53,62,76,52,Cybersecurity
+55,81,63,59,Cybersecurity
+43,37,67,87,Cloud and DevOps
+51,51,80,62,Data Science
+44,64,60,72,Software Development
+50,78,66,53,Cloud and DevOps
+80,53,74,75,Web Development
+50,49,46,63,Data Science
+100,30,41,85,Web Development
+72,61,74,81,Web Development
+67,90,75,62,Cybersecurity
+52,64,94,68,Cybersecurity
+75,59,71,61,Web Development
+56,64,79,48,Cloud and DevOps
+66,59,67,57,Cybersecurity
+100,47,73,72,Web Development
+63,72,90,74,Cybersecurity
+82,63,44,72,Web Development
+54,60,74,65,Web Development
+64,45,95,83,Cloud and DevOps
+91,79,73,70,Software Development
+55,69,89,80,Data Science
+92,51,62,43,Web Development
+75,75,69,20,Web Development
+56,52,70,74,Cloud and DevOps
+74,48,43,48,Web Development
+79,48,55,66,Web Development
+74,33,56,65,Web Development
+41,67,79,93,Cloud and DevOps
+54,32,80,75,Cybersecurity
+61,41,73,72,Cybersecurity
+63,28,79,82,Cybersecurity
+74,58,68,75,Web Development
+67,57,84,63,Cybersecurity
+44,55,70,86,Data Science
+70,44,70,53,Software Development
+74,42,66,74,Web Development
+73,66,78,46,Web Development
+81,51,64,73,Web Development
+77,64,81,72,Web Development
+71,46,56,95,Web Development
+63,62,56,46,Web Development
+40,79,78,60,Cybersecurity
+71,68,68,82,Web Development
+68,53,64,75,Cybersecurity
+69,63,80,72,Web Development
+45,56,62,55,Cybersecurity
+48,60,67,61,Software Development
+80,55,86,88,Web Development
+64,57,88,69,Cloud and DevOps
+75,63,88,75,Web Development
+65,45,66,68,Web Development
+65,44,84,52,Data Science
+79,39,58,84,Web Development
+57,35,59,77,Web Development
+66,41,41,100,Software Development
+58,62,90,54,Data Science
+58,46,59,82,Cloud and DevOps
+60,67,68,50,Cybersecurity
+68,60,59,72,Web Development
+57,30,78,84,Data Science
+83,69,65,38,Web Development
+51,72,54,66,Web Development
+62,45,75,61,Cloud and DevOps
+58,66,52,59,Web Development
+86,47,59,75,Web Development
+67,61,44,86,Data Science
+80,41,52,68,Web Development
+42,33,72,73,Software Development
+69,54,46,71,Data Science
+78,58,52,70,Web Development
+66,54,69,53,Web Development
+80,42,63,86,Web Development
+57,54,93,74,Cloud and DevOps
+86,64,92,75,Web Development
+99,59,59,57,Web Development
+59,62,76,63,Cybersecurity
+58,49,78,67,Cybersecurity
+86,77,62,46,Software Development
+88,42,52,44,Web Development
+57,67,69,60,Cloud and DevOps
+58,77,67,77,Web Development
+60,67,64,60,Cloud and DevOps
+44,56,75,54,Web Development
+51,52,60,57,Data Science
+49,75,56,63,Software Development
+53,38,71,64,Web Development
+64,45,74,100,Cybersecurity
+68,54,55,85,Cybersecurity
+88,78,81,85,Software Development
+50,65,48,87,Software Development
+79,45,63,55,Web Development
+61,55,66,51,Web Development
+64,50,62,53,Software Development
+75,49,63,90,Web Development
+48,74,92,61,Data Science
+70,39,59,51,Software Development
+67,84,99,63,Data Science
+72,72,75,66,Web Development
+69,76,71,74,Data Science
+100,53,75,73,Web Development
+55,57,100,57,Cybersecurity
+57,38,58,80,Data Science
+55,52,56,60,Web Development
+56,67,60,67,Web Development
+55,79,70,80,Web Development
+82,43,49,60,Web Development
+86,54,70,61,Web Development
+56,57,90,78,Web Development
+52,39,71,57,Cloud and DevOps
+72,68,66,64,Web Development
+56,49,62,78,Data Science
+74,57,80,100,Web Development
+68,53,60,79,Web Development
+42,48,92,77,Software Development
+88,59,93,77,Web Development
+91,56,73,53,Web Development
+55,54,69,71,Software Development
+59,49,82,69,Cloud and DevOps
+69,64,83,74,Data Science
+70,84,60,71,Cybersecurity
+74,62,63,75,Web Development
+95,74,54,65,Web Development
+62,39,74,70,Data Science
+53,62,77,51,Data Science
+44,43,53,65,Cloud and DevOps
+54,37,64,90,Data Science
+64,48,53,74,Data Science
+91,77,59,69,Software Development
+57,74,76,98,Web Development
+68,63,61,49,Data Science
+64,37,66,53,Web Development
+82,57,50,95,Web Development
+100,64,72,70,Web Development
+57,62,69,66,Web Development
+57,32,61,52,Data Science
+80,46,67,76,Web Development
+75,59,72,78,Web Development
+92,68,60,53,Web Development
+73,27,52,67,Web Development
+59,57,91,64,Software Development
+73,62,62,73,Web Development
+81,72,68,53,Web Development
+77,70,82,88,Web Development
+72,68,100,83,Web Development
+81,48,55,64,Web Development
+82,31,75,66,Web Development
+85,54,61,67,Web Development
+74,75,63,58,Web Development
+62,80,61,63,Cybersecurity
+67,70,56,65,Software Development
+83,66,69,94,Web Development
+52,65,52,84,Data Science
+70,51,81,84,Data Science
+59,58,70,75,Software Development
+65,85,75,53,Cybersecurity
+84,45,64,69,Web Development
+67,84,65,84,Data Science
+65,55,73,51,Web Development
+44,79,56,79,Cloud and DevOps
+76,38,65,100,Web Development
+74,68,59,85,Web Development
+97,48,59,91,Web Development
+60,38,44,73,Data Science
+68,63,86,84,Data Science
+68,75,61,59,Software Development
+88,47,83,81,Web Development
+63,37,82,79,Web Development
+69,58,54,74,Software Development
+74,58,56,89,Web Development
+67,68,100,61,Software Development
+58,74,91,67,Data Science
+67,59,69,71,Web Development
+81,87,73,54,Data Science
+49,63,62,73,Data Science
+66,54,75,44,Data Science
+54,35,61,85,Data Science
+82,56,45,70,Web Development
+42,54,54,62,Cloud and DevOps
+56,74,70,57,Cybersecurity
+70,66,56,66,Web Development
+88,42,69,80,Web Development
+64,62,57,78,Cloud and DevOps
+56,70,60,59,Cybersecurity
+93,82,80,57,Software Development
+43,73,72,79,Cybersecurity
+32,71,69,59,Cybersecurity
+71,60,80,70,Web Development
+57,65,75,71,Cloud and DevOps
+49,78,87,74,Web Development
+75,40,64,82,Web Development
+68,54,64,51,Software Development
+56,48,54,41,Cybersecurity
+45,65,64,61,Software Development
+78,78,81,97,Web Development
+74,51,85,100,Web Development
+63,24,81,97,Software Development
+92,53,48,67,Web Development
+48,73,82,43,Data Science
+42,68,47,34,Software Development
+54,66,80,60,Data Science
+64,55,65,67,Web Development
+68,40,78,89,Web Development
+61,67,54,83,Data Science
+70,47,84,73,Web Development
+46,92,52,56,Cybersecurity
+86,68,61,55,Web Development
+63,51,58,73,Cybersecurity
+81,50,48,80,Web Development
+70,58,71,75,Web Development
+71,56,91,54,Web Development
+73,76,100,79,Web Development
+71,62,71,76,Web Development
+74,49,83,53,Web Development
+84,88,72,58,Data Science
+67,60,75,80,Cybersecurity
+75,71,65,66,Web Development
+63,50,72,93,Software Development
+86,65,76,77,Web Development
+54,64,63,62,Software Development
+92,31,69,69,Web Development
+64,90,69,70,Cybersecurity
+43,79,79,59,Software Development
+66,54,57,56,Data Science
+54,43,69,80,Software Development
+77,65,92,82,Web Development
+55,61,83,79,Web Development
+58,65,86,92,Software Development
+36,62,70,61,Software Development
+58,67,73,95,Cloud and DevOps
+28,81,82,56,Data Science
+41,68,88,54,Cloud and DevOps
+76,44,46,43,Web Development
+76,80,54,63,Software Development
+71,84,85,62,Data Science
+50,100,66,77,Software Development
+64,43,61,73,Cloud and DevOps
+64,63,54,52,Software Development
+47,28,63,64,Cybersecurity
+87,68,53,64,Web Development
+78,51,95,43,Web Development
+61,88,69,55,Cybersecurity
+65,48,69,58,Cloud and DevOps
+68,34,77,91,Data Science
+34,52,81,72,Cloud and DevOps
+61,30,81,79,Web Development
+54,71,82,47,Cybersecurity
+49,29,62,87,Data Science
+60,60,66,89,Software Development
+91,28,79,40,Web Development
+74,55,63,59,Web Development
+56,84,69,77,Web Development
+73,65,74,79,Web Development
+85,47,79,59,Web Development
+78,59,48,65,Web Development
+65,60,78,61,Web Development
+55,67,67,71,Cybersecurity
+75,39,78,87,Web Development
+70,68,79,58,Data Science
+78,19,89,85,Web Development
+74,50,86,58,Web Development
+80,52,86,57,Web Development
+56,69,87,82,Web Development
+84,60,73,83,Web Development
+67,38,70,82,Data Science
+96,45,80,50,Web Development
+54,62,78,63,Data Science
+91,58,66,82,Web Development
+67,51,74,70,Web Development
+55,52,69,53,Data Science
+57,70,59,76,Cybersecurity
+60,52,85,59,Web Development
+71,58,70,96,Web Development
+72,92,94,93,Data Science
+56,38,50,79,Cybersecurity
+64,32,63,90,Cybersecurity
+97,71,70,70,Web Development
+90,49,83,81,Web Development
+71,55,74,92,Web Development
+65,48,73,73,Data Science
+66,56,56,66,Data Science
+74,83,56,44,Cybersecurity
+49,72,73,68,Web Development
+61,72,53,82,Software Development
+39,38,63,84,Web Development
+70,42,76,77,Cybersecurity
+74,17,58,61,Web Development
+57,47,89,40,Data Science
+88,74,84,62,Web Development
+46,67,51,65,Cybersecurity
+43,56,58,65,Cloud and DevOps
+68,59,42,79,Cloud and DevOps
+80,49,60,99,Web Development
+90,63,79,71,Web Development
+58,71,65,66,Cybersecurity
+81,35,75,66,Web Development
+64,64,51,71,Software Development
+62,73,79,57,Software Development
+78,53,63,71,Web Development
+74,70,70,76,Web Development
+41,100,68,73,Cybersecurity
+87,58,54,76,Web Development
+85,65,56,76,Web Development
+55,48,81,43,Web Development
+70,62,74,79,Web Development
+72,66,82,59,Web Development
+68,62,73,53,Web Development
+56,44,71,53,Data Science
+54,63,49,76,Software Development
+64,81,66,66,Cybersecurity
+82,66,69,44,Web Development
+73,74,93,77,Web Development
+59,56,78,48,Cybersecurity
+76,71,88,72,Web Development
+22,64,77,73,Cloud and DevOps
+82,45,61,83,Web Development
+38,64,71,96,Software Development
+59,45,72,49,Software Development
+48,50,58,69,Software Development
+45,62,65,65,Web Development
+82,64,67,76,Web Development
+57,42,89,73,Data Science
+70,75,45,64,Cybersecurity
+64,68,84,63,Web Development
+72,49,58,53,Web Development
+66,36,53,84,Data Science
+45,57,84,76,Software Development
+79,53,78,83,Web Development
+57,61,85,65,Data Science
+41,54,79,60,Web Development
+58,29,94,53,Software Development
+87,54,76,75,Web Development
+77,55,68,54,Web Development
+59,69,74,97,Web Development
+59,49,84,50,Cybersecurity
+60,85,60,74,Cybersecurity
+96,31,62,93,Web Development
+70,79,66,78,Software Development
+71,56,44,72,Web Development
+80,72,71,55,Web Development
+68,61,47,49,Data Science
+61,77,70,81,Web Development
+62,54,80,92,Cloud and DevOps
+63,43,64,63,Data Science
+64,81,90,52,Data Science
+75,58,52,33,Web Development
+65,63,84,55,Data Science
+75,78,78,68,Web Development
+63,44,49,93,Software Development
+66,68,100,80,Data Science
+35,51,69,74,Web Development
+78,58,59,63,Web Development
+70,61,53,61,Cloud and DevOps
+79,37,67,91,Web Development
+21,48,68,73,Cybersecurity
+96,80,71,38,Software Development
+62,73,66,59,Cloud and DevOps
+81,59,77,57,Web Development
+49,63,65,61,Web Development
+74,55,46,78,Web Development
+49,80,68,68,Software Development
+55,56,41,68,Web Development
+93,63,74,89,Web Development
+62,77,58,59,Data Science
+68,48,71,97,Software Development
+78,83,85,59,Data Science
+72,37,58,71,Web Development
+67,84,82,65,Data Science
+70,54,64,71,Cybersecurity
+100,56,91,76,Web Development
+64,31,65,76,Cybersecurity
+68,53,59,58,Web Development
+80,44,78,53,Web Development
+81,50,64,100,Web Development
+82,57,59,62,Web Development
+74,74,64,80,Web Development
+47,63,69,45,Data Science
+89,64,86,65,Web Development
+47,43,46,68,Cybersecurity
+69,46,70,77,Cloud and DevOps
+53,86,77,29,Cybersecurity
+64,48,72,72,Software Development
+69,84,85,52,Data Science
+69,56,69,74,Cloud and DevOps
+71,60,67,54,Web Development
+89,76,77,57,Software Development
+71,79,71,65,Web Development
+61,58,65,54,Cybersecurity
+79,54,76,62,Web Development
+82,59,62,52,Web Development
+46,65,62,42,Cybersecurity
+73,73,63,85,Web Development
+75,60,86,50,Web Development
+60,69,31,67,Web Development
+85,84,74,81,Web Development
+62,65,70,60,Software Development
+66,64,49,57,Web Development
+62,37,73,73,Data Science
+65,20,75,86,Software Development
+48,65,77,52,Data Science
+43,58,38,67,Web Development
+88,52,86,44,Web Development
+52,63,61,64,Software Development
+50,59,78,70,Cybersecurity
+32,76,78,57,Cloud and DevOps
+55,61,59,63,Cybersecurity
+45,48,77,48,Data Science
+89,74,65,71,Web Development
+80,56,45,85,Web Development
+54,67,84,53,Cybersecurity
+98,52,60,60,Web Development
+79,50,59,77,Web Development
+60,61,65,88,Cybersecurity
+27,60,73,47,Cloud and DevOps
+99,67,69,67,Web Development
+44,55,76,74,Cloud and DevOps
+40,32,53,68,Cybersecurity
+80,53,61,32,Web Development
+100,71,68,77,Web Development
+85,55,92,92,Web Development
+73,56,68,71,Web Development
+73,74,83,54,Web Development
+77,49,70,62,Web Development
+76,36,64,96,Web Development
+69,57,67,83,Cloud and DevOps
+66,52,67,79,Cybersecurity
+64,45,77,75,Software Development
+53,57,86,60,Cybersecurity
+60,67,74,66,Web Development
+39,59,84,68,Cloud and DevOps
+63,64,58,78,Cloud and DevOps
+50,87,65,92,Data Science
+48,54,61,86,Data Science
+67,64,73,48,Web Development
+85,52,65,73,Web Development
+78,47,78,81,Web Development
+41,51,58,79,Cloud and DevOps
+50,52,70,60,Cloud and DevOps
+79,65,78,100,Web Development
+50,95,45,50,Cybersecurity
+61,49,95,53,Data Science
+73,53,66,73,Web Development
+50,59,45,100,Data Science
+66,65,71,57,Cybersecurity
+44,63,70,66,Cloud and DevOps
+55,79,69,86,Cloud and DevOps
+69,23,81,69,Cybersecurity
+41,24,78,64,Cloud and DevOps
+71,52,73,78,Web Development
+64,76,75,74,Web Development
+73,36,68,85,Web Development
+68,14,91,89,Software Development
+85,68,52,74,Web Development
+66,63,71,74,Data Science
+58,43,70,73,Data Science
+66,45,79,77,Data Science
+73,45,59,70,Web Development
+65,61,49,69,Software Development
+65,50,71,87,Web Development
+54,67,73,92,Web Development
+55,17,87,47,Cybersecurity
+43,47,54,70,Software Development
+91,43,83,59,Web Development
+46,56,98,65,Cloud and DevOps
+54,51,65,76,Web Development
+54,71,54,80,Software Development
+78,32,65,68,Web Development
+60,60,70,41,Software Development
+83,68,76,55,Web Development
+54,87,62,83,Web Development
+69,52,88,28,Cybersecurity
+52,64,56,87,Software Development
+97,32,49,77,Web Development
+47,24,83,89,Data Science
+69,72,42,67,Software Development
+74,59,67,39,Web Development
+71,77,100,76,Web Development
+62,39,69,89,Cloud and DevOps
+63,67,56,83,Web Development
+65,88,69,60,Cybersecurity
+62,66,69,71,Cloud and DevOps
+79,64,71,62,Web Development
+98,60,77,57,Web Development
+56,36,57,84,Cybersecurity
+44,80,90,52,Data Science
+63,50,72,56,Web Development
+100,67,78,53,Web Development
+52,36,62,47,Software Development
+89,42,85,72,Web Development
+90,81,66,87,Software Development
+56,54,73,67,Data Science
+73,81,58,47,Cybersecurity
+89,58,58,82,Web Development
+59,32,78,95,Software Development
+61,73,64,60,Cybersecurity
+56,51,59,62,Web Development
+49,70,62,77,Cybersecurity
+55,60,78,94,Cybersecurity
+46,36,62,62,Cybersecurity
+65,62,68,50,Cybersecurity
+53,92,70,79,Software Development
+68,67,46,81,Cloud and DevOps
+41,59,52,70,Software Development
+69,76,74,61,Data Science
+77,63,61,84,Web Development
+35,63,82,77,Cybersecurity
+70,43,81,58,Data Science
+83,63,78,70,Web Development
+46,75,91,49,Software Development
+90,47,69,80,Web Development
+71,81,77,66,Cybersecurity
+54,58,62,63,Cybersecurity
+64,46,99,69,Software Development
+73,74,93,70,Web Development
+66,55,70,83,Cybersecurity
+73,71,74,78,Web Development
+51,55,86,67,Software Development
+67,59,68,81,Web Development
+43,67,62,76,Cloud and DevOps
+63,64,80,63,Cloud and DevOps
+51,30,70,68,Cybersecurity
+53,43,72,67,Web Development
+83,73,59,77,Web Development
+81,58,49,64,Web Development
+74,52,72,64,Web Development
+48,39,80,99,Data Science
+60,43,67,84,Web Development
+83,29,87,58,Web Development
+67,58,61,78,Cybersecurity
+99,51,57,71,Web Development
+70,45,69,75,Web Development
+67,58,69,72,Data Science
+60,65,79,87,Cybersecurity
+67,91,60,75,Cloud and DevOps
+62,37,86,69,Web Development
+75,77,93,85,Web Development
+79,74,69,73,Web Development
+53,48,84,71,Cloud and DevOps
+45,63,57,74,Cloud and DevOps
+37,53,82,68,Software Development
+72,62,82,70,Web Development
+48,82,80,61,Cybersecurity
+32,69,69,58,Data Science
+70,67,34,55,Web Development
+100,53,62,49,Web Development
+64,37,62,56,Cloud and DevOps
+77,56,58,67,Web Development
+66,78,71,71,Cloud and DevOps
+63,37,64,65,Data Science
+78,44,60,34,Web Development
+60,61,57,93,Cloud and DevOps
+69,45,61,86,Cloud and DevOps
+69,48,83,76,Cloud and DevOps
+54,53,62,98,Cloud and DevOps
+79,39,63,55,Web Development
+62,45,64,98,Software Development
+53,70,74,55,Software Development
+73,40,75,73,Web Development
+51,36,33,50,Cybersecurity
+65,50,82,70,Web Development
+64,70,87,75,Data Science
+81,57,57,67,Web Development
+72,53,58,80,Web Development
+64,60,64,71,Cybersecurity
+77,33,60,62,Web Development
+85,67,72,61,Web Development
+73,65,46,82,Web Development
+65,53,56,60,Software Development
+45,75,88,83,Software Development
+49,43,58,88,Software Development
+60,76,84,44,Cybersecurity
+55,62,74,86,Software Development
+62,54,48,100,Cybersecurity
+65,59,77,73,Software Development
+72,58,68,78,Web Development
+63,78,64,85,Cloud and DevOps
+72,43,72,65,Web Development
+65,48,75,72,Cloud and DevOps
+35,75,78,50,Web Development
+50,51,84,72,Software Development
+62,73,74,77,Web Development
+46,85,53,77,Cybersecurity
+73,53,64,85,Web Development
+87,70,100,58,Web Development
+83,42,78,62,Web Development
+61,71,98,98,Software Development
+87,62,86,67,Web Development
+67,67,72,73,Web Development
+59,50,73,68,Software Development
+55,35,69,57,Cybersecurity
+60,67,49,94,Cybersecurity
+59,29,70,62,Cloud and DevOps
+67,55,84,53,Cybersecurity
+67,74,62,63,Cybersecurity
+65,62,74,39,Web Development
+71,89,80,60,Cybersecurity
+82,75,59,55,Web Development
+79,50,64,79,Web Development
+42,60,57,59,Cybersecurity
+26,59,60,83,Data Science
+79,36,54,90,Web Development
+44,45,59,81,Cloud and DevOps
+61,51,87,66,Cloud and DevOps
+47,29,59,72,Cybersecurity
+37,60,71,47,Web Development
+73,56,63,67,Web Development
+76,34,84,57,Web Development
+56,66,85,80,Cloud and DevOps
+26,70,80,100,Cloud and DevOps
+56,63,73,77,Data Science
+70,55,67,40,Cybersecurity
+42,68,55,64,Cloud and DevOps
+67,70,93,71,Cloud and DevOps
+64,64,60,71,Cloud and DevOps
+73,47,77,59,Web Development
+66,64,82,73,Cloud and DevOps
+50,77,63,51,Web Development
+82,51,82,55,Web Development
+62,91,79,79,Software Development
+64,52,90,54,Data Science
+51,60,64,78,Web Development
+58,49,54,49,Data Science
+51,63,63,96,Cloud and DevOps
+62,33,72,58,Data Science
+90,51,70,66,Web Development
+44,43,65,74,Cybersecurity
+40,62,47,61,Cybersecurity
+87,74,75,72,Web Development
+61,69,93,78,Software Development
+54,24,75,84,Software Development
+80,90,77,81,Data Science
+55,64,76,67,Web Development
+92,48,74,67,Web Development
+75,62,81,100,Web Development
+57,62,74,84,Web Development
+97,49,66,56,Web Development
+55,62,60,71,Cloud and DevOps
+76,50,67,64,Web Development
+69,53,73,67,Web Development
+84,49,66,51,Web Development
+88,38,73,63,Web Development
+65,62,75,97,Software Development
+53,68,79,78,Web Development
+71,67,85,32,Web Development
+54,72,70,88,Cloud and DevOps
+95,64,54,86,Web Development
+67,52,65,64,Cybersecurity
+59,72,70,80,Web Development
+67,39,47,57,Web Development
+44,46,86,62,Software Development
+50,45,71,92,Data Science
+83,76,74,65,Web Development
+55,74,86,41,Cybersecurity
+49,67,62,69,Data Science
+73,76,76,68,Web Development
+82,46,68,87,Web Development
+75,65,67,70,Web Development
+79,58,60,63,Web Development
+53,72,89,85,Cloud and DevOps
+43,58,65,71,Cloud and DevOps
+87,54,78,58,Web Development
+60,68,47,87,Data Science
+61,73,84,72,Software Development
+84,49,82,70,Web Development
+73,59,71,72,Web Development
+71,44,67,53,Web Development
+97,22,74,62,Web Development
+55,63,97,70,Software Development
+78,69,48,67,Web Development
+65,63,79,89,Software Development
+69,30,59,73,Cybersecurity
+87,54,69,82,Web Development
+72,26,67,70,Web Development
+73,80,64,85,Cloud and DevOps
+81,43,69,75,Web Development
+59,78,56,70,Cloud and DevOps
+52,74,82,69,Cloud and DevOps
+49,46,48,55,Cybersecurity
+35,43,76,77,Cloud and DevOps
+95,65,66,69,Web Development
+48,47,55,62,Data Science
+61,61,72,86,Web Development
+60,52,51,51,Cybersecurity
+69,33,70,63,Web Development
+77,26,52,85,Web Development
+77,63,75,74,Web Development
+56,51,58,69,Data Science
+62,51,64,73,Software Development
+69,70,73,72,Software Development
+61,77,60,47,Software Development
+89,55,69,64,Web Development
+72,54,51,94,Web Development
+76,67,77,60,Web Development
+74,39,91,65,Web Development
+82,63,100,61,Web Development
+67,68,71,68,Cybersecurity
+45,70,79,61,Software Development
+70,30,48,77,Cybersecurity
+55,48,88,72,Cybersecurity
+57,46,79,81,Web Development
+73,61,64,54,Web Development
+83,67,84,64,Web Development
+65,82,66,66,Cybersecurity
+69,52,64,76,Software Development
+90,52,75,58,Web Development
+68,77,57,83,Cloud and DevOps
+100,64,82,87,Web Development
+73,79,57,55,Web Development
+38,64,57,62,Software Development
+76,42,59,62,Web Development
+70,40,79,100,Software Development
+84,36,62,63,Web Development
+75,69,53,95,Web Development
+62,77,62,51,Software Development
+46,87,69,55,Cybersecurity
+61,72,55,59,Cloud and DevOps
+52,77,56,57,Cloud and DevOps
+56,51,95,65,Cybersecurity
+73,42,59,59,Web Development
+90,72,66,57,Web Development
+70,66,65,87,Cloud and DevOps
+47,61,64,88,Cybersecurity
+71,65,77,84,Web Development
+82,64,81,77,Web Development
+55,79,66,71,Web Development
+62,79,55,62,Cybersecurity
+65,68,85,55,Software Development
+53,72,68,75,Data Science
+74,67,90,52,Web Development
+63,53,43,55,Data Science
+71,71,72,87,Web Development
+51,39,93,98,Software Development
+58,75,65,75,Software Development
+75,42,67,86,Web Development
+59,64,73,66,Cybersecurity
+90,47,63,49,Web Development
+59,68,66,79,Software Development
+68,59,65,78,Cloud and DevOps
+78,36,62,71,Web Development
+43,66,84,66,Cybersecurity
+38,51,75,84,Software Development
+42,73,73,55,Cloud and DevOps
+83,60,79,58,Web Development
+56,65,66,54,Cloud and DevOps
+100,45,60,71,Web Development
+56,51,62,53,Cybersecurity
+67,53,70,59,Web Development
+88,72,57,59,Web Development
+95,85,63,66,Software Development
+95,47,63,47,Web Development
+83,76,95,71,Web Development
+80,27,36,88,Web Development
+73,42,67,72,Web Development
+76,45,90,93,Web Development
+56,39,71,90,Web Development
+52,36,79,81,Cloud and DevOps
+64,66,71,71,Web Development
+62,56,61,70,Cloud and DevOps
+58,65,43,81,Web Development
+75,70,72,64,Web Development
+79,63,60,41,Web Development
+66,69,60,77,Cloud and DevOps
+87,58,64,53,Web Development
+47,42,90,55,Cloud and DevOps
+62,75,98,70,Cloud and DevOps
+54,51,72,68,Cloud and DevOps
+37,45,64,48,Data Science
+63,57,55,72,Web Development
+63,46,75,84,Cloud and DevOps
+87,53,91,53,Web Development
+74,65,67,89,Web Development
+49,65,41,46,Software Development
+92,46,78,100,Web Development
+83,52,81,63,Web Development
+73,76,50,72,Web Development
+61,67,72,41,Cybersecurity
+50,91,75,69,Cybersecurity
+59,77,69,73,Software Development
+81,77,60,68,Web Development
+93,39,82,61,Web Development
+88,71,65,55,Web Development
+57,59,52,86,Software Development
+48,51,45,70,Data Science
+67,62,85,93,Web Development
+38,74,77,62,Data Science
+69,67,71,63,Web Development
+62,46,64,82,Cloud and DevOps
+58,71,63,45,Data Science
+41,50,57,51,Cybersecurity
+72,63,64,86,Web Development
+57,55,44,52,Web Development
+47,56,61,42,Data Science
+21,71,66,98,Cybersecurity
+64,44,77,49,Software Development
+91,89,69,72,Software Development
+89,32,79,71,Web Development
+58,51,86,27,Cloud and DevOps
+55,65,82,65,Cloud and DevOps
+72,68,75,76,Web Development
+50,58,70,75,Software Development
+69,59,58,83,Data Science
+76,66,78,64,Web Development
+83,56,90,80,Web Development
+63,80,74,59,Software Development
+61,72,93,48,Cybersecurity
+51,73,51,50,Web Development
+52,45,56,48,Data Science
+61,58,80,85,Web Development
+70,55,73,47,Software Development
+78,44,85,74,Web Development
+52,65,69,66,Cloud and DevOps
+87,51,59,68,Web Development
+60,69,67,90,Web Development
+64,43,51,63,Web Development
+53,85,56,79,Cloud and DevOps
+28,46,81,70,Web Development
+78,63,80,67,Web Development
+76,71,74,100,Web Development
+60,51,49,48,Web Development
+66,72,65,89,Cloud and DevOps
+72,41,55,79,Web Development
+41,81,84,62,Data Science
+57,60,62,94,Cloud and DevOps
+76,51,56,42,Web Development
+46,55,70,62,Software Development
+69,72,62,51,Software Development
+44,51,87,76,Web Development
+71,48,61,53,Web Development
+64,56,53,76,Data Science
+40,42,44,67,Software Development
+82,87,69,62,Software Development
+53,51,63,75,Data Science
+52,72,52,65,Data Science
+68,63,84,53,Cloud and DevOps
+82,45,78,100,Web Development
+49,59,69,62,Software Development
+65,71,86,36,Cybersecurity
+71,57,77,57,Web Development
+75,77,60,50,Web Development
+67,75,57,82,Cybersecurity
+59,73,79,74,Web Development
+52,53,74,75,Software Development
+66,43,72,64,Cybersecurity
+48,50,59,65,Software Development
+21,62,77,64,Software Development
+71,68,60,68,Web Development
+78,27,68,82,Web Development
+29,59,87,75,Cybersecurity
+49,62,62,77,Software Development
+74,55,51,77,Web Development
+95,79,57,83,Software Development
+65,66,81,74,Data Science
+54,79,73,75,Web Development
+62,56,68,87,Cloud and DevOps
+85,74,63,60,Web Development
+55,84,75,57,Cybersecurity
+53,79,59,52,Cybersecurity
+57,43,73,72,Cloud and DevOps
+50,56,61,42,Web Development
+66,54,59,76,Data Science
+89,67,62,68,Web Development
+69,70,65,87,Data Science
+61,47,69,59,Data Science
+60,61,72,66,Data Science
+41,29,25,86,Cybersecurity
+78,81,60,90,Cybersecurity
+63,52,65,59,Software Development
+62,60,88,72,Software Development
+100,55,57,74,Web Development
+69,77,71,75,Web Development
+53,17,87,66,Software Development
+58,59,54,89,Web Development
+82,58,74,41,Web Development
+66,53,60,63,Web Development
+43,85,63,76,Web Development
+78,46,60,76,Web Development
+54,71,61,90,Data Science
+93,65,100,87,Web Development
+81,78,80,65,Web Development
+58,49,83,89,Cloud and DevOps
+84,49,75,59,Web Development
+66,76,50,83,Cloud and DevOps
+77,66,74,97,Web Development
+72,36,82,88,Web Development
+52,51,59,71,Cybersecurity
+55,65,81,65,Web Development
+80,72,78,47,Web Development
+59,49,92,74,Data Science
+58,16,64,53,Software Development
+50,67,56,58,Software Development
+71,41,65,52,Web Development
+95,29,87,63,Web Development
+48,17,48,69,Cybersecurity
+65,72,45,74,Cybersecurity
+86,61,71,60,Web Development
+63,56,64,86,Web Development
+71,80,70,66,Web Development
+49,69,81,58,Software Development
+71,84,63,73,Cybersecurity
+62,39,47,99,Software Development
+79,59,94,75,Web Development
+82,35,58,64,Web Development
+100,56,57,47,Web Development
+73,56,83,66,Web Development
+69,69,65,73,Software Development
+67,60,69,64,Software Development
+59,69,75,45,Cloud and DevOps
+70,70,83,57,Web Development
+60,92,65,91,Web Development
+67,55,88,91,Software Development
+84,45,44,56,Web Development
+49,63,79,80,Software Development
+82,47,59,52,Web Development
+84,82,86,91,Data Science
+63,55,71,73,Data Science
+33,51,61,84,Software Development
+55,52,77,44,Cybersecurity
+84,70,80,80,Web Development
+64,57,77,69,Data Science
+50,50,57,82,Cybersecurity
+57,84,64,83,Data Science
+77,47,69,70,Web Development
+73,60,69,60,Web Development
+61,69,78,81,Cybersecurity
+59,35,45,69,Software Development
+59,67,74,56,Software Development
+51,44,66,56,Data Science
+89,72,59,47,Web Development
+60,45,61,62,Cybersecurity
+83,70,67,86,Web Development
+87,76,26,72,Software Development
+79,72,61,62,Web Development
+58,63,59,82,Cloud and DevOps
+71,56,76,57,Web Development
+64,51,60,71,Data Science
+51,82,67,67,Cybersecurity
+69,49,88,81,Data Science
+47,44,81,46,Web Development
+82,69,80,57,Web Development
+58,48,64,45,Data Science
+68,45,76,66,Cloud and DevOps
+69,38,67,88,Software Development
+61,52,67,62,Cybersecurity
+73,58,74,62,Web Development
+57,63,62,83,Web Development
+78,74,87,86,Web Development
+44,67,68,68,Cybersecurity
+66,57,77,80,Software Development
+94,57,87,53,Web Development
+49,67,82,90,Data Science
+54,79,53,100,Cloud and DevOps
+72,61,75,77,Web Development
+67,52,80,38,Web Development
+70,45,80,61,Cloud and DevOps
+72,38,56,79,Web Development
+74,69,62,63,Web Development
+81,68,81,89,Web Development
+71,68,60,78,Web Development
+61,58,66,59,Cloud and DevOps
+75,81,88,70,Data Science
+93,52,69,56,Web Development
+63,74,61,67,Cloud and DevOps
+50,59,59,61,Cloud and DevOps
+81,50,73,87,Web Development
+63,68,54,100,Software Development
+32,66,67,48,Cloud and DevOps
+77,65,73,41,Web Development
+56,61,85,66,Cloud and DevOps
+63,59,78,47,Software Development
+69,95,61,70,Cybersecurity
+67,77,84,81,Cybersecurity
+75,70,66,92,Web Development
+58,61,55,73,Software Development
+72,75,67,67,Web Development
+61,67,87,40,Data Science
+76,60,71,70,Web Development
+74,55,70,71,Web Development
+50,58,89,79,Software Development
+81,12,52,59,Web Development
+56,63,54,63,Cybersecurity
+77,52,50,47,Web Development
+70,83,74,35,Cybersecurity
+92,60,71,53,Web Development
+61,42,88,46,Data Science
+59,59,72,75,Data Science
+64,44,65,62,Web Development
+60,67,70,61,Cloud and DevOps
+76,64,71,55,Web Development
+40,74,49,21,Data Science
+49,48,100,92,Software Development
+48,60,76,54,Data Science
+79,39,72,63,Web Development
+90,70,77,48,Web Development
+63,67,78,84,Cybersecurity
+62,67,68,72,Data Science
+66,60,62,57,Cybersecurity
+82,66,77,64,Web Development
+51,84,74,95,Cloud and DevOps
+68,55,60,68,Web Development
+79,62,87,67,Web Development
+72,43,73,55,Web Development
+67,46,78,41,Web Development
+80,61,86,67,Web Development
+24,76,70,74,Cloud and DevOps
+75,56,73,86,Web Development
+55,56,79,36,Cloud and DevOps
+37,53,61,53,Software Development
+72,51,70,61,Web Development
+85,64,71,69,Web Development
+62,37,58,67,Data Science
+79,79,97,68,Web Development
+89,50,53,76,Web Development
+84,70,54,56,Web Development
+89,40,85,84,Web Development
+76,70,78,76,Web Development
+66,70,57,65,Data Science
+40,65,77,94,Data Science
+61,45,87,93,Software Development
+52,63,69,83,Cybersecurity
+97,42,100,24,Web Development
+62,56,49,93,Software Development
+66,75,78,81,Data Science
+73,71,83,100,Web Development
+65,60,80,88,Cybersecurity
+90,45,67,93,Web Development
+55,69,66,83,Cybersecurity
+67,60,75,90,Web Development
+53,25,79,99,Cybersecurity
+45,71,77,73,Cloud and DevOps
+55,59,82,46,Cybersecurity
+64,78,57,65,Cloud and DevOps
+58,43,67,75,Cloud and DevOps
+54,12,58,71,Web Development
+43,64,65,51,Web Development
+63,64,82,45,Cybersecurity
+42,34,71,58,Web Development
+76,45,100,82,Web Development
+66,100,72,93,Web Development
+43,55,70,83,Data Science
+60,70,71,85,Cybersecurity
+53,50,62,68,Cybersecurity
+69,28,69,43,Cybersecurity
+85,57,83,63,Web Development
+36,56,71,66,Web Development
+66,54,60,62,Web Development
+62,58,58,70,Cloud and DevOps
+75,63,64,76,Web Development
+68,57,70,82,Software Development
+53,41,84,65,Software Development
+60,67,53,41,Software Development
+53,30,66,62,Data Science
+81,29,71,70,Web Development
+65,71,47,88,Web Development
+93,67,59,61,Web Development
+64,59,61,77,Cloud and DevOps
+54,39,60,74,Cloud and DevOps
+42,49,72,70,Software Development
+37,56,68,83,Data Science
+41,36,63,60,Data Science
+69,48,75,61,Software Development
+72,69,90,69,Web Development
+41,81,89,60,Data Science
+78,53,46,77,Web Development
+57,71,76,59,Software Development
+67,31,67,73,Web Development
+89,69,71,68,Web Development
+78,47,65,73,Web Development
+60,64,71,63,Data Science
+51,56,71,64,Cloud and DevOps
+32,79,63,71,Software Development
+54,46,59,73,Web Development
+61,69,64,69,Cloud and DevOps
+50,55,72,95,Data Science
+63,57,77,55,Software Development
+66,57,80,69,Software Development
+61,47,64,46,Web Development
+55,59,73,75,Web Development
+67,59,81,53,Data Science
+71,63,83,65,Web Development
+48,61,69,64,Software Development
+86,71,67,74,Web Development
+63,73,72,61,Web Development
+65,44,56,61,Software Development
+75,73,67,91,Web Development
+68,42,78,74,Data Science
+79,68,77,61,Web Development
+69,69,66,66,Software Development
+55,31,72,94,Cloud and DevOps
+70,61,60,66,Software Development
+47,52,78,59,Cybersecurity
+66,48,69,59,Cybersecurity
+64,80,66,61,Data Science
+61,50,65,61,Data Science
+63,47,69,50,Data Science
+36,61,64,53,Cloud and DevOps
+56,70,77,57,Cloud and DevOps
+66,57,65,78,Software Development
+67,77,89,64,Web Development
+49,67,87,66,Cybersecurity
+83,27,59,89,Web Development
+52,52,70,89,Cybersecurity
+79,51,62,65,Web Development
+71,67,66,60,Web Development
+55,20,94,57,Cybersecurity
+91,98,66,80,Software Development
+47,67,74,66,Software Development
+78,62,76,64,Web Development
+80,77,57,57,Web Development
+54,95,59,58,Cybersecurity
+85,73,55,74,Web Development
+61,74,59,50,Software Development
+69,61,35,84,Data Science
+68,57,76,61,Web Development
+62,52,94,67,Data Science
+77,47,71,49,Web Development
+76,49,53,69,Web Development
+38,39,62,65,Software Development
+84,58,64,69,Web Development
+40,34,57,92,Cloud and DevOps
+80,62,80,72,Web Development
+81,59,79,58,Web Development
+48,62,56,59,Data Science
+58,52,78,78,Software Development
+48,100,88,89,Data Science
+61,80,92,74,Software Development
+60,41,100,80,Cloud and DevOps
+76,63,59,79,Web Development
+84,50,100,91,Web Development
+85,44,65,40,Web Development
+56,39,62,80,Cloud and DevOps
+61,66,73,84,Cloud and DevOps
+39,49,63,49,Web Development
+52,74,74,56,Software Development
+79,74,54,57,Web Development
+89,80,67,59,Software Development
+46,47,85,62,Cloud and DevOps
+56,67,69,73,Web Development
+64,69,71,82,Cybersecurity
+69,52,75,86,Cybersecurity
+52,48,84,57,Cybersecurity
+71,84,50,57,Cybersecurity
+57,63,77,89,Software Development
+64,69,66,79,Web Development
+73,47,71,71,Web Development
+65,41,82,77,Web Development
+58,51,55,69,Cybersecurity
+63,58,57,77,Data Science
+63,44,46,64,Cybersecurity
+59,59,63,74,Software Development
+61,34,85,47,Cybersecurity
+88,43,68,59,Web Development
+73,70,53,59,Web Development
+60,69,64,64,Cybersecurity
+75,54,52,56,Web Development
+59,44,56,61,Web Development
+82,44,74,47,Web Development
+70,54,55,78,Cybersecurity
+63,69,83,68,Cloud and DevOps
+71,73,69,44,Web Development
+41,52,71,57,Cloud and DevOps
+48,42,66,75,Data Science
+47,64,79,61,Software Development
+67,47,79,59,Software Development
+90,52,74,68,Web Development
+98,79,76,75,Software Development
+74,72,67,48,Web Development
+72,62,76,78,Web Development
+37,40,65,57,Web Development
+56,63,70,69,Software Development
+53,75,66,69,Data Science
+55,54,64,62,Cloud and DevOps
+62,80,61,54,Web Development
+57,79,75,65,Cloud and DevOps
+35,84,85,94,Data Science
+76,64,84,49,Web Development
+48,68,54,95,Data Science
+68,81,85,66,Data Science
+96,66,66,70,Web Development
+51,52,77,53,Web Development
+27,53,59,58,Cybersecurity
+60,63,71,62,Software Development
+81,40,73,54,Web Development
+94,57,52,66,Web Development
+46,76,77,63,Data Science
+72,27,86,97,Web Development
+58,83,67,52,Cybersecurity
+63,76,86,71,Web Development
+100,53,67,73,Web Development
+42,68,80,53,Cloud and DevOps
+68,60,43,80,Web Development
+72,78,99,64,Web Development
+81,74,87,32,Web Development
+66,38,66,79,Cybersecurity
+69,68,46,53,Data Science
+59,56,73,54,Web Development
+69,61,52,80,Data Science
+59,49,75,64,Data Science
+74,86,74,83,Cloud and DevOps
+59,75,58,88,Software Development
+70,48,83,60,Cybersecurity
+64,39,79,81,Web Development
+81,54,81,58,Web Development
+64,66,70,100,Software Development
+38,63,53,59,Cloud and DevOps
+83,78,81,85,Web Development
+51,71,66,82,Software Development
+55,74,53,74,Data Science
+56,64,86,59,Data Science
+85,39,95,67,Web Development
+32,57,69,37,Cybersecurity
+100,75,95,73,Web Development
+80,59,71,75,Web Development
+68,67,65,72,Web Development
+64,55,62,25,Web Development
+69,44,89,51,Cloud and DevOps
+72,58,60,58,Web Development
+74,64,78,74,Web Development
+73,50,63,74,Web Development
+66,56,64,67,Cybersecurity
+62,45,82,79,Web Development
+62,76,65,54,Data Science
+62,55,65,79,Cybersecurity
+82,81,83,77,Data Science
+73,82,89,75,Data Science
+20,58,77,67,Software Development
+74,44,62,97,Web Development
+67,28,63,77,Cybersecurity
+64,37,70,55,Cybersecurity
+59,39,73,73,Web Development
+81,80,58,81,Cloud and DevOps
+79,61,78,61,Web Development
+53,65,71,86,Cloud and DevOps
+71,26,49,75,Web Development
+50,42,58,34,Web Development
+44,73,63,74,Web Development
+55,64,69,63,Web Development
+77,57,92,78,Web Development
+79,68,72,84,Web Development
+72,84,59,72,Cybersecurity
+75,56,72,94,Web Development
+72,61,65,67,Web Development
+55,62,73,79,Cloud and DevOps
+71,95,76,82,Web Development
+77,28,84,68,Web Development
+76,70,69,81,Web Development
+82,58,89,61,Web Development
+75,68,80,63,Web Development
+70,50,61,50,Software Development
+81,59,96,73,Web Development
+64,70,73,74,Software Development
+51,100,59,87,Data Science
+62,72,89,81,Software Development
+53,47,94,65,Cybersecurity
+54,53,69,52,Data Science
+62,53,63,76,Software Development
+53,33,67,86,Cybersecurity
+60,55,78,81,Software Development
+36,70,85,86,Cybersecurity
+68,40,76,66,Web Development
+65,75,71,63,Cybersecurity
+52,67,87,58,Web Development
+74,48,66,69,Web Development
+79,57,82,68,Web Development
+40,83,66,73,Cybersecurity
+53,71,75,68,Cybersecurity
+53,60,68,67,Cybersecurity
+50,56,69,58,Software Development
+77,61,65,84,Web Development
+62,52,86,71,Cybersecurity
+61,28,61,67,Software Development
+34,90,61,58,Cybersecurity
+74,62,95,50,Web Development
+46,65,81,89,Cybersecurity
+65,59,41,78,Cloud and DevOps
+69,48,63,45,Data Science
+85,57,48,81,Web Development
+45,36,58,83,Software Development
+19,94,32,71,Cybersecurity
+67,41,68,93,Software Development
+92,44,56,73,Web Development
+83,53,70,48,Web Development
+68,79,50,75,Web Development
+57,60,70,73,Cloud and DevOps
+77,41,65,60,Web Development
+50,78,88,78,Web Development
+72,70,86,44,Web Development
+72,68,79,84,Web Development
+80,70,66,56,Web Development
+100,95,93,55,Software Development
+70,92,51,68,Cybersecurity
+57,49,53,76,Cloud and DevOps
+64,84,68,72,Cybersecurity
+38,65,97,58,Cloud and DevOps
+54,67,67,62,Cybersecurity
+58,34,67,53,Web Development
+57,57,52,66,Data Science
+67,47,81,86,Cloud and DevOps
+52,72,81,69,Cloud and DevOps
+81,76,79,82,Web Development
+65,28,62,91,Software Development
+64,59,61,61,Cybersecurity
+60,76,54,67,Data Science
+67,57,71,100,Cloud and DevOps
+77,70,57,91,Web Development
+51,65,55,44,Software Development
+55,65,64,75,Web Development
+60,55,64,70,Cloud and DevOps
+44,41,63,82,Software Development
+52,43,75,58,Web Development
+57,70,70,57,Cybersecurity
+78,60,66,59,Web Development
+68,57,72,61,Web Development
+67,53,58,82,Cloud and DevOps
+77,55,71,52,Web Development
+62,75,71,60,Data Science
+70,54,51,43,Web Development
+63,39,81,85,Data Science
+68,71,59,89,Data Science
+56,56,71,65,Web Development
+28,60,83,65,Cybersecurity
+62,84,81,76,Data Science
+86,59,70,92,Web Development
+78,64,65,76,Web Development
+79,42,81,59,Web Development
+83,56,78,45,Web Development
+66,69,62,53,Web Development
+67,36,60,71,Software Development
+55,63,45,60,Data Science
+60,61,71,72,Cloud and DevOps
+74,60,69,61,Web Development
+83,75,83,54,Web Development
+62,65,74,52,Data Science
+58,82,86,93,Data Science
+65,45,61,83,Cloud and DevOps
+74,62,83,95,Web Development
+43,61,63,78,Software Development
+30,43,79,63,Software Development
+56,74,52,89,Software Development
+46,94,72,69,Cybersecurity
+57,59,46,73,Web Development
+62,67,66,69,Data Science
+58,61,75,25,Cloud and DevOps
+86,49,63,94,Web Development
+69,32,57,77,Software Development
+69,49,80,74,Software Development
+74,39,68,69,Web Development
+47,85,64,72,Cybersecurity
+80,58,70,61,Web Development
+63,54,100,79,Cloud and DevOps
+75,73,83,50,Web Development
+48,43,83,72,Data Science
+41,48,75,78,Data Science
+77,61,71,67,Web Development
+70,75,41,75,Cloud and DevOps
+51,67,61,55,Cybersecurity
+51,63,64,55,Data Science
+81,61,47,73,Web Development
+47,66,56,80,Cloud and DevOps
+89,63,46,41,Web Development
+51,44,69,77,Cloud and DevOps
+74,60,79,61,Web Development
+60,43,83,67,Software Development
+74,61,74,49,Web Development
+56,52,58,57,Cloud and DevOps
+62,98,46,84,Web Development
+65,59,48,70,Software Development
+49,38,54,64,Software Development
+76,57,59,68,Web Development
+57,67,68,77,Data Science
+61,85,57,76,Cybersecurity
+50,51,74,68,Data Science
+26,36,67,86,Web Development
+62,72,70,84,Software Development
+100,39,83,76,Web Development
+76,53,55,70,Web Development
+64,56,75,79,Software Development
+61,58,69,74,Cloud and DevOps
+65,70,65,85,Cybersecurity
+73,49,80,83,Web Development
+47,55,80,54,Cybersecurity
+81,59,58,53,Web Development
+75,62,67,59,Web Development
+75,61,73,84,Web Development
+71,66,66,46,Web Development
+65,72,77,75,Cloud and DevOps
+75,65,73,75,Web Development
+73,66,91,87,Web Development
+59,36,51,72,Web Development
+56,60,68,49,Cybersecurity
+66,67,59,55,Software Development
+88,70,77,52,Web Development
+46,49,50,61,Web Development
+42,50,74,67,Data Science
+67,51,62,52,Data Science
+65,68,61,92,Web Development
+67,75,52,50,Software Development
+68,53,64,90,Data Science
+61,73,83,87,Software Development
+87,61,69,83,Web Development
+40,58,77,59,Cloud and DevOps
+52,56,89,75,Cybersecurity
+63,71,73,50,Web Development
+40,64,63,83,Cybersecurity
+62,94,75,68,Cybersecurity
+89,47,63,63,Web Development
+65,67,63,51,Cloud and DevOps
+68,52,51,32,Data Science
+46,46,81,54,Software Development
+55,59,65,86,Software Development
+59,62,72,63,Cloud and DevOps
+60,100,57,67,Cybersecurity
+84,57,75,79,Web Development
+73,43,60,97,Web Development
+48,64,68,89,Web Development
+68,28,80,55,Cybersecurity
+72,58,79,40,Web Development
+82,60,69,100,Web Development
+88,71,48,100,Web Development
+49,74,100,72,Data Science
+52,52,90,50,Web Development
+46,57,78,84,Cloud and DevOps
+61,48,60,68,Cloud and DevOps
+71,43,68,68,Web Development
+79,64,63,83,Web Development
+63,40,85,75,Software Development
+60,53,73,52,Data Science
+67,45,60,65,Web Development
+52,68,64,79,Software Development
+96,87,83,77,Software Development
+40,40,89,73,Data Science
+67,32,88,84,Cybersecurity
+95,58,79,64,Web Development
+65,60,66,72,Cybersecurity
+62,63,31,20,Software Development
+59,53,73,63,Web Development
+62,56,69,81,Data Science
+85,65,71,64,Web Development
+31,75,70,63,Cybersecurity
+88,30,54,54,Web Development
+43,54,76,85,Cybersecurity
+61,63,77,78,Web Development
+58,46,78,82,Software Development
+73,85,81,44,Data Science
+41,50,77,67,Cloud and DevOps
+71,59,65,65,Web Development
+95,68,69,65,Web Development
+44,51,71,60,Data Science
+67,32,71,64,Cybersecurity
+55,53,81,82,Cloud and DevOps
+71,75,77,41,Web Development
+65,54,94,96,Software Development
+55,47,96,77,Web Development
+72,73,70,69,Web Development
+92,55,23,83,Web Development
+62,52,84,48,Software Development
+75,62,63,60,Web Development
+45,71,60,68,Data Science
+50,95,65,90,Web Development
+72,72,64,69,Web Development
+87,77,77,76,Software Development
+70,52,51,61,Software Development
+60,44,57,77,Web Development
+64,60,74,95,Cybersecurity
+46,61,77,84,Cybersecurity
+74,43,77,68,Web Development
+78,57,60,80,Web Development
+58,65,58,78,Cloud and DevOps
+57,65,63,77,Web Development
+68,67,72,86,Cybersecurity
+58,64,87,86,Software Development
+64,52,45,68,Software Development
+96,52,67,79,Web Development
+61,42,54,64,Cloud and DevOps
+59,86,50,56,Cybersecurity
+55,60,81,65,Data Science
+76,56,76,68,Web Development
+62,46,75,45,Web Development
+55,100,81,82,Data Science
+84,43,64,28,Web Development
+86,53,64,100,Web Development
+55,66,96,92,Software Development
+37,69,67,66,Cybersecurity
+80,74,78,70,Web Development
+54,87,70,74,Cybersecurity
+76,67,47,61,Web Development
+35,44,45,72,Software Development
+78,56,63,67,Web Development
+46,64,82,68,Web Development
+75,91,79,72,Cybersecurity
+65,39,80,50,Software Development
+50,78,58,70,Cloud and DevOps
+58,62,89,72,Cybersecurity
+75,72,58,71,Web Development
+66,58,72,66,Cybersecurity
+73,47,69,87,Web Development
+94,71,67,64,Web Development
+41,69,86,73,Cloud and DevOps
+89,74,61,89,Web Development
+66,59,53,68,Software Development
+51,51,70,73,Web Development
+45,36,65,68,Software Development
+62,72,100,88,Software Development
+78,66,78,66,Web Development
+63,45,65,89,Web Development
+87,51,57,68,Web Development
+43,52,47,57,Cloud and DevOps
+64,37,57,80,Data Science
+46,47,71,65,Web Development
+70,42,87,79,Cybersecurity
+78,53,83,29,Web Development
+58,48,72,70,Cybersecurity
+25,35,66,63,Cybersecurity
+67,90,73,54,Cybersecurity
+71,78,63,61,Web Development
+71,48,90,61,Web Development
+83,64,67,69,Web Development
+48,66,68,49,Software Development
+75,77,43,74,Web Development
+82,47,67,90,Web Development
+38,76,80,74,Software Development
+69,51,57,82,Software Development
+57,39,60,86,Cybersecurity
+63,70,79,88,Web Development
+70,79,52,98,Cybersecurity
+57,98,82,62,Data Science
+54,42,63,59,Web Development
+65,70,65,81,Software Development
+48,53,56,80,Data Science
+48,71,74,81,Software Development
+75,37,99,98,Web Development
+47,41,79,70,Cloud and DevOps
+74,48,59,76,Web Development
+71,61,83,55,Web Development
+39,50,66,100,Web Development
+54,69,86,64,Data Science
+82,75,79,65,Web Development
+50,68,34,64,Software Development
+58,84,57,60,Cybersecurity
+71,66,81,59,Web Development
+76,41,71,62,Web Development
+61,80,57,49,Data Science
+56,50,62,58,Cybersecurity
+86,73,47,99,Web Development
+91,83,68,81,Software Development
+79,66,96,83,Web Development
+66,37,79,87,Web Development
+52,46,96,97,Software Development
+52,79,80,43,Cloud and DevOps
+72,57,82,51,Web Development
+71,61,93,57,Web Development
+86,71,74,62,Web Development
+74,70,67,65,Web Development
+42,64,82,63,Cybersecurity
+80,56,87,73,Web Development
+50,55,64,70,Data Science
+59,72,61,59,Software Development
+68,68,71,37,Web Development
+94,56,79,55,Web Development
+100,76,79,61,Software Development
+74,58,52,66,Web Development
+62,47,92,53,Cloud and DevOps
+73,48,62,62,Web Development
+78,45,66,53,Web Development
+60,55,59,68,Software Development
+91,78,100,53,Software Development
+68,47,72,57,Cloud and DevOps
+72,62,59,50,Web Development
+74,50,80,67,Web Development
+71,56,79,57,Web Development
+77,37,67,83,Web Development
+55,56,80,76,Web Development
+56,57,60,68,Data Science
+48,68,64,58,Cloud and DevOps
+71,63,45,75,Web Development
+76,42,54,80,Web Development
+71,76,91,72,Web Development
+90,63,89,94,Web Development
+64,62,70,76,Web Development
+75,59,89,83,Web Development
+48,52,68,72,Cloud and DevOps
+59,63,67,80,Software Development
+75,67,70,58,Web Development
+77,33,68,63,Web Development
+60,51,67,75,Cloud and DevOps
+63,56,83,75,Software Development
+42,63,71,77,Software Development
+59,77,78,86,Web Development
+78,48,82,48,Web Development
+73,52,74,55,Web Development
+72,52,58,73,Web Development
+65,47,53,59,Cybersecurity
+65,54,71,100,Cloud and DevOps
+55,71,67,77,Data Science
+75,44,71,68,Web Development
+71,66,69,62,Web Development
+72,34,100,62,Web Development
+57,51,54,70,Software Development
+32,55,46,71,Cybersecurity
+81,85,73,63,Software Development
+57,55,65,65,Cybersecurity
+52,26,73,90,Cybersecurity
+75,30,77,90,Web Development
+59,60,85,73,Data Science
+80,69,51,49,Web Development
+74,65,63,78,Web Development
+75,62,75,93,Web Development
+44,77,79,90,Cybersecurity
+83,51,96,81,Web Development
+68,73,81,91,Data Science
+59,35,69,70,Web Development
+67,46,59,79,Software Development
+38,32,63,59,Data Science
+71,55,62,74,Web Development
+49,59,77,89,Software Development
+44,61,73,61,Cloud and DevOps
+42,60,54,57,Web Development
+81,46,64,71,Web Development
+55,57,80,66,Cloud and DevOps
+88,37,74,79,Web Development
+56,80,76,63,Cloud and DevOps
+39,55,74,95,Cybersecurity
+48,52,89,50,Cybersecurity
+83,83,72,88,Cloud and DevOps
+62,41,65,58,Cybersecurity
+56,43,59,43,Software Development
+67,43,72,73,Cybersecurity
+72,58,40,66,Web Development
+81,66,67,53,Web Development
+86,71,67,44,Web Development
+59,98,53,69,Cybersecurity
+45,26,58,84,Cloud and DevOps
+58,69,79,78,Cybersecurity
+68,51,72,70,Cybersecurity
+50,51,71,77,Data Science
+50,50,73,69,Data Science
+70,46,71,48,Cloud and DevOps
+64,85,84,48,Data Science
+65,72,71,66,Software Development
+53,60,52,67,Web Development
+61,80,89,82,Web Development
+51,37,74,81,Cloud and DevOps
+78,40,62,79,Web Development
+80,27,54,65,Web Development
+37,49,74,49,Software Development
+51,62,68,76,Software Development
+42,61,88,77,Software Development
+55,62,65,34,Data Science
+63,38,59,57,Cloud and DevOps
+43,72,80,59,Web Development
+51,63,81,71,Software Development
+49,70,72,57,Cloud and DevOps
+68,31,78,69,Web Development
+66,64,69,66,Data Science
+54,42,72,67,Cybersecurity
+67,54,83,59,Web Development
+56,68,77,60,Web Development
+60,61,67,53,Web Development
+90,47,86,75,Web Development
+85,60,41,78,Web Development
+45,37,94,58,Cybersecurity
+77,77,49,92,Web Development
+77,56,62,65,Web Development
+47,76,69,92,Software Development
+77,52,68,60,Web Development
+88,52,82,39,Web Development
+48,48,57,76,Cybersecurity
+51,73,73,73,Web Development
+80,49,63,70,Web Development
+69,69,73,60,Data Science
+73,54,69,69,Web Development
+70,30,71,62,Web Development
+70,51,63,65,Data Science
+45,42,63,82,Cloud and DevOps
+80,60,73,72,Web Development
+82,42,81,79,Web Development
+61,73,62,66,Data Science
+64,58,59,64,Web Development
+42,57,77,52,Cybersecurity
+72,69,69,64,Web Development
+73,74,79,20,Web Development
+64,59,59,61,Web Development
+81,48,48,68,Web Development
+59,33,63,78,Web Development
+73,49,60,65,Web Development
+49,50,69,75,Cloud and DevOps
+64,61,62,37,Software Development
+62,54,78,69,Web Development
+68,70,66,44,Cloud and DevOps
+59,50,71,51,Cybersecurity
+63,59,71,67,Cloud and DevOps
+77,77,72,89,Web Development
+58,65,69,75,Cloud and DevOps
+40,59,76,70,Data Science
+91,50,60,69,Web Development
+85,50,86,59,Web Development
+45,47,67,61,Software Development
+75,51,54,76,Web Development
+57,71,72,49,Software Development
+68,56,59,78,Cybersecurity
+69,39,77,64,Cloud and DevOps
+61,86,96,82,Data Science
+53,64,60,84,Cybersecurity
+54,38,73,44,Cybersecurity
+51,53,48,61,Software Development
+52,61,75,57,Software Development
+63,85,59,42,Cybersecurity
+54,43,62,54,Software Development
+75,74,56,100,Web Development
+87,80,78,79,Software Development
+56,50,82,98,Web Development
+68,55,70,82,Cloud and DevOps
+72,44,59,58,Web Development
+72,56,89,64,Web Development
+66,59,60,78,Cybersecurity
+76,69,44,76,Web Development
+72,76,75,61,Web Development
+46,48,56,47,Cloud and DevOps
+78,30,81,100,Web Development
+78,59,65,67,Web Development
+53,64,77,65,Cybersecurity
+65,63,86,71,Cybersecurity
+75,55,55,66,Web Development
+61,61,63,71,Cybersecurity
+81,82,69,89,Cybersecurity
+100,65,88,68,Web Development
+53,54,62,52,Data Science
+44,52,62,67,Data Science
+69,57,75,63,Web Development
+75,84,63,91,Software Development
+61,57,71,87,Cybersecurity
+86,59,51,71,Web Development
+44,52,96,50,Cloud and DevOps
+75,76,53,51,Web Development
+55,89,66,70,Cybersecurity
+90,66,69,75,Web Development
+94,61,92,64,Web Development
+53,60,54,62,Data Science
+56,24,93,61,Software Development
+77,71,79,69,Web Development
+59,62,75,34,Web Development
+64,66,58,53,Software Development
+65,49,76,60,Cybersecurity
+36,54,61,88,Software Development
+64,53,85,57,Cybersecurity
+54,75,58,72,Data Science
+57,54,68,73,Data Science
+86,91,63,89,Software Development
+46,66,58,88,Cybersecurity
+77,40,78,69,Web Development
+60,58,76,62,Cloud and DevOps
+60,50,84,60,Data Science
+76,27,48,66,Web Development
+70,83,82,63,Data Science
+73,70,100,78,Web Development
+79,67,64,76,Web Development
+60,62,92,78,Cloud and DevOps
+55,39,66,88,Cybersecurity
+48,52,53,97,Cybersecurity
+52,72,66,71,Data Science
+100,44,82,86,Web Development
+83,22,59,64,Web Development
+44,56,62,87,Cloud and DevOps
+45,57,77,85,Cybersecurity
+72,62,70,85,Web Development
+73,70,77,71,Web Development
+73,69,72,59,Web Development
+61,63,75,49,Data Science
+63,77,64,69,Cybersecurity
+69,37,72,92,Software Development
+66,67,58,65,Software Development
+31,69,85,81,Data Science
+61,41,62,82,Cybersecurity
+52,37,83,65,Data Science
+67,48,67,89,Web Development
+100,50,72,26,Web Development
+70,71,64,51,Data Science
+60,50,57,56,Data Science
+78,47,49,57,Web Development
+72,50,57,75,Web Development
+71,76,66,74,Web Development
+74,60,72,75,Web Development
+95,57,82,78,Web Development
+48,58,64,55,Software Development
+72,79,59,51,Web Development
+51,48,52,75,Software Development
+73,79,75,60,Web Development
+51,63,86,46,Cybersecurity
+58,57,85,84,Data Science
+60,97,78,90,Data Science
+79,44,77,93,Web Development
+78,54,90,72,Web Development
+46,41,73,79,Cybersecurity
+65,74,77,90,Cloud and DevOps
+54,85,66,60,Cybersecurity
+46,85,53,86,Cybersecurity
+61,78,61,74,Software Development
+60,57,69,83,Software Development
+100,54,70,72,Web Development
+71,34,93,89,Web Development
+44,90,70,73,Cybersecurity
+56,67,84,47,Data Science
+80,52,64,91,Web Development
+96,79,66,55,Software Development
+41,45,54,88,Software Development
+36,66,61,68,Cybersecurity
+93,57,76,87,Web Development
+70,69,70,87,Data Science
+51,59,81,76,Cybersecurity
+73,38,72,77,Web Development
+25,61,65,76,Cybersecurity
+65,75,95,39,Data Science
+69,59,68,71,Cloud and DevOps
+78,71,83,53,Web Development
+49,44,65,72,Software Development
+66,59,78,52,Web Development
+51,50,81,52,Web Development
+68,71,72,94,Web Development
+51,60,41,86,Software Development
+58,70,70,69,Cloud and DevOps
+50,76,84,72,Cybersecurity
+74,70,76,66,Web Development
+77,64,75,78,Web Development
+61,45,49,59,Data Science
+65,59,61,84,Cloud and DevOps
+43,52,74,66,Web Development
+60,54,74,63,Software Development
+64,54,84,70,Software Development
+100,45,68,61,Web Development
+48,30,74,74,Data Science
+86,49,70,61,Web Development
+79,62,58,77,Web Development
+69,39,42,88,Cybersecurity
+91,60,75,59,Web Development
+70,88,72,68,Cybersecurity
+70,75,62,76,Cloud and DevOps
+64,84,50,63,Cybersecurity
+83,65,77,76,Web Development
+81,77,66,78,Web Development
+55,49,76,86,Cloud and DevOps
+45,50,92,60,Cloud and DevOps
+61,18,44,55,Cybersecurity
+52,77,61,65,Cybersecurity
+64,83,67,55,Cybersecurity
+83,51,87,78,Web Development
+58,56,50,52,Cybersecurity
+64,48,93,100,Software Development
+65,65,71,89,Data Science
+77,76,68,70,Web Development
+31,33,67,83,Software Development
+55,66,64,45,Web Development
+68,55,82,100,Cybersecurity
+83,61,57,61,Web Development
+57,66,74,68,Software Development
+36,57,65,42,Cybersecurity
+74,58,60,77,Web Development
+55,56,100,53,Web Development
+47,74,75,71,Cybersecurity
+55,66,77,61,Software Development
+62,63,83,53,Data Science
+55,40,52,57,Web Development
+31,54,91,73,Software Development
+78,73,39,50,Web Development
+84,60,60,58,Web Development
+74,69,64,79,Web Development
+47,86,76,100,Cloud and DevOps
+61,75,72,77,Cloud and DevOps
+64,61,67,56,Cloud and DevOps
+73,52,69,64,Web Development
+75,21,58,70,Web Development
+53,57,52,64,Data Science
+66,55,78,83,Cybersecurity
+71,65,78,73,Web Development
+86,57,89,83,Web Development
+75,55,60,65,Web Development
+76,33,78,89,Web Development
+66,45,66,67,Cybersecurity
+86,67,84,55,Web Development
+71,85,82,100,Data Science
+52,58,72,42,Cybersecurity
+86,64,65,58,Web Development
+75,74,81,60,Web Development
+58,47,77,100,Data Science
+57,65,61,97,Cloud and DevOps
+69,48,54,92,Cybersecurity
+71,72,66,65,Web Development
+67,62,88,100,Software Development
+69,64,83,75,Data Science
+90,48,56,84,Web Development
+81,70,55,72,Web Development
+67,91,85,69,Data Science
+79,44,56,66,Web Development
+49,54,76,66,Data Science
+70,63,62,79,Software Development
+92,71,89,75,Web Development
+61,51,60,69,Cybersecurity
+52,17,83,92,Cloud and DevOps
+55,80,72,25,Web Development
+48,71,73,77,Data Science
+53,33,46,80,Software Development
+59,50,43,87,Web Development
+43,83,67,69,Cybersecurity
+65,81,72,73,Cybersecurity
+78,74,56,84,Web Development
+51,57,56,92,Data Science
+87,61,76,65,Web Development
+72,58,76,74,Web Development
+80,76,68,95,Web Development
+55,46,79,38,Software Development
+77,47,55,59,Web Development
+48,75,65,91,Cybersecurity
+78,59,89,86,Web Development
+67,80,70,77,Software Development
+73,49,71,63,Web Development
+47,59,97,56,Data Science
+51,46,53,61,Cybersecurity
+73,60,79,93,Web Development
+50,37,89,60,Cloud and DevOps
+71,52,66,71,Web Development
+44,38,80,58,Software Development
+77,70,58,82,Web Development
+46,70,61,61,Web Development
+73,34,74,68,Web Development
+74,80,79,44,Cybersecurity
+54,97,83,45,Data Science
+73,60,88,70,Web Development
+68,50,69,50,Cybersecurity
+56,100,84,100,Data Science
+49,40,65,39,Cloud and DevOps
+35,60,80,57,Software Development
+70,62,72,70,Web Development
+41,80,75,64,Cloud and DevOps
+66,65,75,53,Software Development
+61,52,50,55,Web Development
+75,45,56,55,Web Development
+60,54,71,65,Web Development
+60,44,49,99,Data Science
+75,60,79,71,Web Development
+70,51,80,87,Web Development
+69,37,73,77,Software Development
+72,78,56,86,Web Development
+41,52,86,28,Cloud and DevOps
+76,40,94,65,Web Development
+74,57,71,89,Web Development
+49,61,76,61,Cloud and DevOps
+61,33,72,96,Data Science
+64,64,76,92,Software Development
+62,44,68,62,Web Development
+70,85,69,62,Cybersecurity
+86,67,80,54,Web Development
+81,54,98,60,Web Development
+45,48,53,51,Data Science
+74,58,68,76,Web Development
+84,69,55,48,Web Development
+70,59,89,79,Cybersecurity
+81,56,62,79,Web Development
+95,60,52,45,Web Development
+80,50,77,93,Web Development
+68,54,90,77,Software Development
+80,28,77,81,Web Development
+67,74,72,58,Data Science
+65,64,74,79,Cloud and DevOps
+59,48,86,86,Software Development
+88,88,59,68,Software Development
+52,61,68,100,Data Science
+87,44,64,70,Web Development
+72,72,55,87,Web Development
+44,65,66,74,Cybersecurity
+70,65,83,78,Software Development
+33,53,76,44,Data Science
+74,66,77,75,Web Development
+78,56,71,58,Web Development
+56,68,76,57,Web Development
+66,31,60,96,Software Development
+94,53,66,66,Web Development
+57,85,72,54,Cybersecurity
+49,48,73,64,Data Science
+87,50,73,50,Web Development
+94,53,68,91,Web Development
+65,41,65,59,Data Science
+80,26,100,77,Web Development
+85,56,80,90,Web Development
+53,62,74,62,Software Development
+57,59,67,77,Cloud and DevOps
+83,57,64,54,Web Development
+90,60,68,100,Web Development
+73,75,73,84,Web Development
+51,57,47,67,Web Development
+94,51,51,58,Web Development
+57,55,62,68,Software Development
+59,68,72,64,Web Development
+70,81,67,99,Web Development
+88,50,87,51,Web Development
+77,61,52,72,Web Development
+71,65,60,69,Web Development
+71,45,88,68,Web Development
+65,60,71,68,Software Development
+73,38,80,68,Web Development
+27,33,94,83,Data Science
+60,65,61,79,Cloud and DevOps
+68,54,68,76,Web Development
+47,63,66,24,Web Development
+70,59,46,74,Data Science
+61,45,66,45,Software Development
+91,59,80,79,Web Development
+88,41,76,92,Web Development
+58,80,77,56,Cloud and DevOps
+62,39,65,66,Web Development
+63,57,62,61,Web Development
+58,44,85,88,Software Development
+67,68,64,71,Data Science
+53,55,73,95,Cybersecurity
+48,52,71,76,Data Science
+74,72,87,73,Web Development
+74,60,81,71,Web Development
+52,67,54,82,Web Development
+78,45,55,43,Web Development
+55,38,76,71,Web Development
+68,61,69,68,Cloud and DevOps
+77,55,64,80,Web Development
+64,69,82,67,Data Science
+71,58,72,54,Web Development
+57,63,70,70,Cybersecurity
+62,35,79,53,Cloud and DevOps
+61,88,65,41,Cybersecurity
+53,57,88,80,Cybersecurity
+62,70,60,78,Cloud and DevOps
+41,47,77,77,Data Science
+57,64,87,89,Software Development
+60,40,53,60,Web Development
+61,66,65,48,Cybersecurity
+61,54,83,68,Data Science
+64,60,83,64,Cybersecurity
+72,70,67,57,Web Development
+78,41,61,68,Web Development
+55,49,81,60,Data Science
+46,66,84,42,Cloud and DevOps
+49,91,56,63,Cybersecurity
+57,57,55,52,Data Science
+59,68,72,73,Cloud and DevOps
+53,58,77,60,Web Development
+45,89,66,86,Cloud and DevOps
+58,33,78,94,Software Development
+67,61,61,80,Web Development
+73,35,44,46,Web Development
+56,22,64,92,Data Science
+58,64,70,93,Data Science
+51,62,66,70,Software Development
+64,55,56,89,Data Science
+52,58,48,61,Web Development
+73,100,63,42,Cybersecurity
+38,56,80,58,Web Development
+59,67,85,95,Cloud and DevOps
+69,50,84,47,Cybersecurity
+67,64,60,69,Data Science
+100,56,56,70,Web Development
+70,53,75,62,Software Development
+49,87,77,63,Cybersecurity
+63,77,74,71,Web Development
+38,62,45,61,Web Development
+63,25,59,48,Web Development
+52,54,69,73,Cybersecurity
+78,100,75,86,Cybersecurity
+56,56,79,83,Data Science
+63,76,71,57,Software Development
+55,81,73,51,Cybersecurity
+91,63,71,65,Web Development
+60,47,78,93,Cybersecurity
+92,23,73,79,Web Development
+77,70,70,80,Web Development
+72,47,66,83,Web Development
+70,62,70,76,Cloud and DevOps
+70,41,75,71,Cybersecurity
+36,56,73,79,Web Development
+60,60,74,61,Software Development
+77,64,86,48,Web Development
+64,43,73,80,Data Science
+43,77,62,88,Cybersecurity
+64,51,80,53,Web Development
+90,34,53,82,Web Development
+83,58,57,95,Web Development
+64,60,74,69,Cloud and DevOps
+79,62,76,57,Web Development
+59,80,55,71,Cloud and DevOps
+39,56,65,61,Data Science
+51,58,62,60,Data Science
+88,43,64,76,Web Development
+60,72,81,45,Cybersecurity
+61,62,78,48,Data Science
+60,53,69,70,Web Development
+93,31,63,69,Web Development
+89,81,53,75,Software Development
+98,41,87,98,Web Development
+62,51,77,71,Web Development
+69,65,61,78,Web Development
+42,42,78,55,Cybersecurity
+87,37,69,81,Web Development
+47,28,66,62,Cybersecurity
+68,70,75,71,Data Science
+48,51,61,68,Cybersecurity
+56,100,65,85,Web Development
+52,45,71,50,Software Development
+55,46,64,35,Web Development
+56,51,78,66,Software Development
+56,63,92,77,Data Science
+77,52,60,72,Web Development
+48,69,50,88,Cloud and DevOps
+68,45,45,76,Cybersecurity
+83,39,68,61,Web Development
+57,33,62,35,Cybersecurity
+54,26,72,66,Web Development
+61,52,71,85,Web Development
+82,55,50,64,Web Development
+67,50,48,70,Software Development
+57,78,73,76,Cybersecurity
+72,78,71,54,Web Development
+48,54,64,79,Data Science
+75,33,50,94,Web Development
+71,51,75,67,Web Development
+60,51,85,53,Web Development
+52,50,73,69,Cybersecurity
+51,49,59,36,Cloud and DevOps
+73,50,70,75,Web Development
+83,54,53,76,Web Development
+55,50,82,95,Software Development
+71,63,70,67,Web Development
+33,65,48,76,Web Development
+56,46,66,57,Web Development
+64,79,75,64,Data Science
+51,45,66,47,Web Development
+50,35,66,67,Cybersecurity
+54,65,55,65,Cybersecurity
+69,47,76,74,Cybersecurity
+62,64,62,60,Cloud and DevOps
+31,23,44,71,Cloud and DevOps
+33,80,65,64,Web Development
+55,70,81,65,Cloud and DevOps
+71,37,65,71,Web Development
+23,37,90,70,Cloud and DevOps
+57,85,75,81,Data Science
+57,48,74,68,Cloud and DevOps
+85,47,68,64,Web Development
+59,26,69,67,Software Development
+70,54,66,59,Software Development
+67,56,66,64,Software Development
+33,70,76,100,Web Development
+76,39,58,56,Web Development
+68,37,57,65,Cybersecurity
+72,66,56,64,Web Development
+100,75,94,66,Web Development
+33,36,76,65,Data Science
+90,76,73,74,Software Development
+60,60,57,44,Web Development
+69,76,77,85,Cybersecurity
+64,58,68,79,Data Science
+58,22,72,51,Data Science
+56,57,58,35,Data Science
+69,75,71,55,Software Development
+42,46,64,66,Software Development
+76,54,60,100,Web Development
+58,57,78,78,Software Development
+48,16,51,42,Data Science
+58,85,76,59,Cybersecurity
+83,46,78,69,Web Development
+56,67,59,73,Data Science
+70,58,60,50,Software Development
+54,78,67,67,Data Science
+76,66,73,59,Web Development
+75,56,68,53,Web Development
+92,46,75,73,Web Development
+62,71,91,81,Software Development
+75,31,63,82,Web Development
+66,69,49,78,Software Development
+84,43,79,62,Web Development
+54,78,90,80,Software Development
+76,62,74,74,Web Development
+62,69,56,72,Cybersecurity
+64,61,68,60,Data Science
+66,33,56,62,Web Development
+68,47,77,71,Software Development
+63,70,53,100,Web Development
+68,62,66,74,Cybersecurity
+88,77,57,60,Software Development
+79,66,71,57,Web Development
+78,45,65,62,Web Development
+58,48,72,100,Data Science
+51,61,70,64,Software Development
+79,25,58,83,Web Development
+78,85,77,64,Cybersecurity
+87,66,69,73,Web Development
+55,78,58,81,Software Development
+61,36,96,61,Software Development
+40,78,75,60,Web Development
+59,93,68,94,Cybersecurity
+79,40,86,84,Web Development
+58,71,92,81,Data Science
+74,60,68,81,Web Development
+62,36,74,76,Cybersecurity
+69,67,58,100,Software Development
+47,72,68,70,Cybersecurity
+66,50,67,78,Web Development
+20,77,72,48,Cloud and DevOps
+62,34,73,57,Cloud and DevOps
+40,37,76,51,Data Science
+83,62,72,89,Web Development
+76,60,55,31,Web Development
+72,49,58,63,Web Development
+87,72,63,25,Web Development
+50,67,66,57,Data Science
+91,72,82,62,Web Development
+78,58,56,90,Web Development
+61,69,65,75,Cybersecurity
+82,53,81,57,Web Development
+48,90,66,85,Data Science
+52,47,75,70,Web Development
+55,91,68,70,Cybersecurity
+57,60,73,51,Software Development
+49,39,67,55,Software Development
+83,80,78,57,Cybersecurity
+61,61,51,70,Software Development
+70,72,65,71,Cybersecurity
+56,78,73,93,Data Science
+37,65,76,75,Data Science
+69,51,87,29,Web Development
+36,74,65,73,Software Development
+63,60,87,48,Web Development
+44,70,62,55,Cloud and DevOps
+94,27,85,57,Web Development
+78,66,79,60,Web Development
+66,50,59,49,Web Development
+83,84,73,73,Cybersecurity
+52,69,69,48,Cybersecurity
+73,63,77,75,Web Development
+67,67,67,100,Web Development
+68,45,66,50,Data Science
+84,84,86,65,Data Science
+75,89,68,32,Cybersecurity
+69,65,79,65,Cloud and DevOps
+40,83,67,79,Web Development
+50,51,89,80,Data Science
+63,48,61,71,Web Development
+66,60,62,83,Software Development
+48,66,88,100,Software Development
+100,54,64,95,Web Development
+87,68,89,62,Web Development
+74,64,80,48,Web Development
+66,45,68,63,Cybersecurity
+61,67,48,55,Software Development
+50,72,69,76,Software Development
+66,62,71,52,Cloud and DevOps
+68,77,84,68,Data Science
+46,41,89,82,Cybersecurity
+70,67,61,68,Software Development
+62,42,79,55,Cybersecurity
